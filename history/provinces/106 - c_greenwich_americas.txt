@@ -1,0 +1,19 @@
+# 106 - Grenwich & Avenue of the Ameriacs
+
+# County Title
+title = c_greenwich_americas
+
+# Settlements
+max_settlements = 3
+b_greenwich_americas_01 = castle
+b_greenwich_americas_02 = city
+b_greenwich_americas_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

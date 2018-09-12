@@ -1,0 +1,59 @@
+# DOWNTOWN
+
+technology = {
+	titles = {
+		d_battery_park_city
+		d_financial_district
+		d_civic_center
+		d_two_bridges
+		d_tribeca
+		d_soho
+		d_chinatown
+		d_little_italy
+		d_bowery
+		d_lower_east_side
+		d_alphabet_city
+		d_east_village
+		d_noho
+		d_greenwich_the_village
+		d_west_village
+		d_meat_packing_district
+	}
+
+	1830 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	2034 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+# MIDTOWN
+
+technology = {
+	titles = {
+		d_gramercy
+		d_rose_hill
+		d_stuyvesant_town
+		d_koreatown
+	}
+
+	1830 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	2034 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+

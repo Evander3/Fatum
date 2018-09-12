@@ -1,0 +1,19 @@
+# 112 - Union Square
+
+# County Title
+title = c_union_square
+
+# Settlements
+max_settlements = 3
+b_union_square_01 = castle
+b_union_square_02 = city
+b_union_square_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

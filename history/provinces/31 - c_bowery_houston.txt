@@ -1,0 +1,19 @@
+# 31 - Bowery & Houston
+
+# County Title
+title = c_bowery_houston
+
+# Settlements
+max_settlements = 3
+b_bowery_houston_01 = castle
+b_bowery_houston_02 = city
+b_bowery_houston_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

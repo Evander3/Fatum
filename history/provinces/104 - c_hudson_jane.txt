@@ -1,0 +1,19 @@
+# 104 - Hudson & Jane Street
+
+# County Title
+title = c_hudson_jane
+
+# Settlements
+max_settlements = 3
+b_hudson_jane_01 = castle
+b_hudson_jane_02 = city
+b_hudson_jane_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

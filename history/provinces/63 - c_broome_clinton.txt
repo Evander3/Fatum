@@ -1,0 +1,19 @@
+# 63 - Broome and Clinton
+
+# County Title
+title = c_broome_clinton
+
+# Settlements
+max_settlements = 3
+b_broome_clinton_01 = castle
+b_broome_clinton_02 = city
+b_broome_clinton_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

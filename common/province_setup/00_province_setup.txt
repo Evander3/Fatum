@@ -1,0 +1,683 @@
+1 = {
+	title = c_battery_park
+	max_settlements = 3
+	terrain = plains
+}
+2 = {
+	title = c_battery_place
+	max_settlements = 3
+	terrain = plains
+}
+3 = {
+	title = c_south_end_ave
+	max_settlements = 4
+	terrain = plains
+}
+4 = {
+	title = c_north_end_ave
+	max_settlements = 3
+	terrain = plains
+}
+5 = {
+	title = c_brooklyn_tunnel_entrance
+	max_settlements = 3
+	terrain = plains
+}
+6 = {
+	title = c_staten_island_ferry
+	max_settlements = 3
+	terrain = plains
+}
+7 = {
+	title = c_hanover_square
+	max_settlements = 3
+	terrain = plains
+}
+8 = {
+	title = c_water_street
+	max_settlements = 4
+	terrain = plains
+}
+9 = {
+	title = c_nyc_commissioner_office
+	max_settlements = 6
+	terrain = plains
+}
+10 = {
+	title = c_south_street_seaport
+	max_settlements = 3
+	terrain = plains
+}
+11 = {
+	title = c_john_ann_st
+	max_settlements = 3
+	terrain = plains
+}
+12 = {
+	title = c_wall_street
+	max_settlements = 3
+	terrain = plains
+}
+13 = {
+	title = c_hudson_terminal
+	max_settlements = 3
+	terrain = plains
+}
+14 = {
+	title = c_cedar_plan
+	max_settlements = 3
+	terrain = plains
+}
+15 = {
+	title = c_radio_row
+	max_settlements = 3
+	terrain = plains
+}
+16 = {
+	title = c_chambers_greenwich
+	max_settlements = 3
+	terrain = plains
+}
+17 = {
+	title = c_chambers_church
+	max_settlements = 3
+	terrain = plains
+}
+18 = {
+	title = c_tribeca_piers
+	max_settlements = 3
+	terrain = plains
+}
+19 = {
+	title = c_church_walker
+	max_settlements = 3
+	terrain = plains
+}
+20 = {
+	title = c_hubert_hudson
+	max_settlements = 3
+	terrain = plains
+}
+21 = {
+	title = c_canal_west
+	max_settlements = 3
+	terrain = plains
+}
+22 = {
+	title = c_pier_forty
+	max_settlements = 3
+	terrain = plains
+}
+23 = {
+	title = c_spring_varick
+	max_settlements = 3
+	terrain = plains
+}
+24 = {
+	title = c_canal_lafayette
+	max_settlements = 3
+	terrain = plains
+}
+25 = {
+	title = c_broome_lafayette
+	max_settlements = 3
+	terrain = plains
+}
+26 = {
+	title = c_broome_broadway
+	max_settlements = 3
+	terrain = plains
+}
+27 = {
+	title = c_broome_streets
+	max_settlements = 3
+	terrain = plains
+}
+28 = {
+	title = c_sullivan_prince
+	max_settlements = 3
+	terrain = plains
+}
+29 = {
+	title = c_broadway_prince
+	max_settlements = 3
+	terrain = plains
+}
+30 = {
+	title = c_thompson_prince
+	max_settlements = 3
+	terrain = plains
+}
+31 = {
+	title = c_bowery_houston
+	max_settlements = 3
+	terrain = plains
+}
+32 = {
+	title = c_nolita_north
+	max_settlements = 3
+	terrain = plains
+}
+33 = {
+	title = c_nolita_south
+	max_settlements = 3
+	terrain = plains
+}
+34 = {
+	title = c_broome_center
+	max_settlements = 3
+	terrain = plains
+}
+35 = {
+	title = c_center_st
+	max_settlements = 3
+	terrain = plains
+}
+36 = {
+	title = c_hester_mott
+	max_settlements = 3
+	terrain = plains
+}
+37 = {
+	title = c_nyc_civil_court
+	max_settlements = 3
+	terrain = plains
+}
+38 = {
+	title = c_five_points
+	max_settlements = 3
+	terrain = plains
+}
+39 = {
+	title = c_chinatown
+	max_settlements = 3
+	terrain = plains
+}
+40 = {
+	title = c_walker_street
+	max_settlements = 3
+	terrain = plains
+}
+41 = {
+	title = c_foley_square_block
+	max_settlements = 3
+	terrain = plains
+}
+42 = {
+	title = c_judiciar_city
+	max_settlements = 3
+	terrain = plains
+}
+43 = {
+	title = c_city_hall
+	max_settlements = 3
+	terrain = plains
+}
+44 = {
+	title = c_pace_university
+	max_settlements = 3
+	terrain = plains
+}
+45 = {
+	title = c_one_police_plaza
+	max_settlements = 3
+	terrain = plains
+}
+46 = {
+	title = c_bancker_street
+	max_settlements = 3
+	terrain = plains
+}
+47 = {
+	title = c_st_james_triangle
+	max_settlements = 3
+	terrain = plains
+}
+48 = {
+	title = c_catherine_slip
+	max_settlements = 3
+	terrain = plains
+}
+49 = {
+	title = c_south_street_viaduct
+	max_settlements = 3
+	terrain = plains
+}
+50 = {
+	title = c_madison_street
+	max_settlements = 3
+	terrain = plains
+}
+51 = {
+	title = c_two_bridges_housing
+	max_settlements = 3
+	terrain = plains
+}
+52 = {
+	title = c_canal_st_bridge
+	max_settlements = 3
+	terrain = plains
+}
+53 = {
+	title = c_pike_henry
+	max_settlements = 3
+	terrain = plains
+}
+54 = {
+	title = c_cherry_rutgers
+	max_settlements = 3
+	terrain = plains
+}
+55 = {
+	title = c_pier_thirty_five
+	max_settlements = 3
+	terrain = plains
+}
+56 = {
+	title = c_corlears_hook_park
+	max_settlements = 3
+	terrain = plains
+}
+57 = {
+	title = c_grand_east_river_dr
+	max_settlements = 3
+	terrain = plains
+}
+58 = {
+	title = c_montgomery_madison
+	max_settlements = 3
+	terrain = plains
+}
+59 = {
+	title = c_cannon_st
+	max_settlements = 3
+	terrain = plains
+}
+60 = {
+	title = c_seward_park
+	max_settlements = 3
+	terrain = plains
+}
+61 = {
+	title = c_pitt_broadway
+	max_settlements = 3
+	terrain = plains
+}
+62 = {
+	title = c_willett_grand
+	max_settlements = 3
+	terrain = plains
+}
+63 = {
+	title = c_broome_clinton
+	max_settlements = 3
+	terrain = plains
+}
+64 = {
+	title = c_broome_ludlow
+	max_settlements = 3
+	terrain = plains
+}
+65 = {
+	title = c_grand_st_chrystie
+	max_settlements = 3
+	terrain = plains
+}
+66 = {
+	title = c_chrystie_forsythe_st
+	max_settlements = 4
+	terrain = plains
+}
+67 = {
+	title = c_east_river_park
+	max_settlements = 3
+	terrain = plains
+}
+68 = {
+	title = c_rivington_columbia
+	max_settlements = 3
+	terrain = plains
+}
+69 = {
+	title = c_stanton_clinton
+	max_settlements = 3
+	terrain = plains
+}
+70 = {
+	title = c_norfolk_rivington
+	max_settlements = 3
+	terrain = plains
+}
+71 = {
+	title = c_houston_essex
+	max_settlements = 3
+	terrain = plains
+}
+72 = {
+	title = c_houston_scnd_ave
+	max_settlements = 3
+	terrain = plains
+}
+73 = {
+	title = c_third_str_first
+	max_settlements = 3
+	terrain = plains
+}
+74 = {
+	title = c_sixth_avenue_b
+	max_settlements = 3
+	terrain = plains
+}
+75 = {
+	title = c_alphabet_city_south
+	max_settlements = 3
+	terrain = plains
+}
+76 = {
+	title = c_east_river_promenade
+	max_settlements = 3
+	terrain = plains
+}
+77 = {
+	title = c_alphabet_city_north
+	max_settlements = 3
+	terrain = plains
+}
+78 = {
+	title = c_eigth_avenue_c
+	max_settlements = 3
+	terrain = plains
+}
+79 = {
+	title = c_tenth_str_east
+	max_settlements = 3
+	terrain = plains
+}
+80 = {
+	title = c_twelfth_avenue_b
+	max_settlements = 3
+	terrain = plains
+}
+81 = {
+	title = c_lil_germany_hood
+	max_settlements = 3
+	terrain = plains
+}
+82 = {
+	title = c_lil_germany
+	max_settlements = 3
+	terrain = plains
+}
+83 = {
+	title = c_end_avenue_a
+	max_settlements = 3
+	terrain = plains
+}
+84 = {
+	title = c_cooper_square
+	max_settlements = 3
+	terrain = plains
+}
+85 = {
+	title = c_twelfth_str_central
+	max_settlements = 3
+	terrain = plains
+}
+86 = {
+	title = c_first_st_marks
+	max_settlements = 3
+	terrain = plains
+}
+87 = {
+	title = c_lafayette_broadway
+	max_settlements = 3
+	terrain = plains
+}
+88 = {
+	title = c_fourth_lafayette
+	max_settlements = 3
+	terrain = plains
+}
+89 = {
+	title = c_fourth_avenue
+	max_settlements = 3
+	terrain = plains
+}
+90 = {
+	title = c_astor_broadway
+	max_settlements = 3
+	terrain = plains
+}
+91 = {
+	title = c_old_dry_docks
+	max_settlements = 3
+	terrain = plains
+}
+92 = {
+	title = c_stuyvesant_cove_park
+	max_settlements = 3
+	terrain = plains
+}
+93 = {
+	title = c_old_gashouse
+	max_settlements = 3
+	terrain = plains
+}
+94 = {
+	title = c_twentieth_str_east
+	max_settlements = 3
+	terrain = plains
+}
+95 = {
+	title = c_stuyvesant_farm
+	max_settlements = 3
+	terrain = plains
+}
+96 = {
+	title = c_peter_cooper_village
+	max_settlements = 3
+	terrain = plains
+}
+97 = {
+	title = c_bethune_street
+	max_settlements = 3
+	terrain = plains
+}
+98 = {
+	title = c_washington_street
+	max_settlements = 3
+	terrain = plains
+}
+99 = {
+	title = c_leroy_greenwich
+	max_settlements = 3
+	terrain = plains
+}
+100 = {
+	title = c_bedford_seventh_s
+	max_settlements = 3
+	terrain = plains
+}
+101 = {
+	title = c_grove_street
+	max_settlements = 3
+	terrain = plains
+}
+102 = {
+	title = c_christopher_hudson
+	max_settlements = 3
+	terrain = plains
+}
+103 = {
+	title = c_bleecker_bank
+	max_settlements = 3
+	terrain = plains
+}
+104 = {
+	title = c_hudson_jane
+	max_settlements = 3
+	terrain = plains
+}
+105 = {
+	title = c_greenwich_w_twelfth_str
+	max_settlements = 3
+	terrain = plains
+}
+106 = {
+	title = c_greenwich_americas
+	max_settlements = 3
+	terrain = plains
+}
+107 = {
+	title = c_bleecker_macdougal
+	max_settlements = 3
+	terrain = plains
+}
+108 = {
+	title = c_mercer_third
+	max_settlements = 3
+	terrain = plains
+}
+109 = {
+	title = c_e_eighth_str_university
+	max_settlements = 3
+	terrain = plains
+}
+110 = {
+	title = c_washington_square
+	max_settlements = 3
+	terrain = plains
+}
+111 = {
+	title = c_w_twelfth_str_fifth
+	max_settlements = 3
+	terrain = plains
+}
+112 = {
+	title = c_union_square
+	max_settlements = 3
+	terrain = plains
+}
+113 = {
+	title = c_lil_w_twelfth_str
+	max_settlements = 3
+	terrain = plains
+}
+114 = {
+	title = c_irving_plaza
+	max_settlements = 3
+	terrain = plains
+}
+115 = {
+	title = c_stuyvesant_square
+	max_settlements = 3
+	terrain = plains
+}
+116 = {
+	title = c_e_twenty_third_second_ave
+	max_settlements = 3
+	terrain = plains
+}
+117 = {
+	title = c_gramercy_park
+	max_settlements = 3
+	terrain = plains
+}
+118 = {
+	title = c_broadway_park_ave
+	max_settlements = 3
+	terrain = plains
+}
+119 = {
+	title = c_madison_square
+	max_settlements = 3
+	terrain = plains
+}
+120 = {
+	title = c_e_twenty_fourth_lexington
+	max_settlements = 3
+	terrain = plains
+}
+121 = {
+	title = c_lexington_thirtieth
+	max_settlements = 3
+	terrain = plains
+}
+122 = {
+	title = c_madison_twenty_ninth
+	max_settlements = 3
+	terrain = plains
+}
+123 = {
+	title = c_nomadhood_e
+	max_settlements = 3
+	terrain = plains
+}
+124 = {
+	title = c_nomadhood_n_w
+	max_settlements = 3
+	terrain = plains
+}
+125 = {
+	title = c_nomadhood_s_w
+	max_settlements = 3
+	terrain = plains
+}
+126 = {
+	title = c_fifth_twentyfourth
+	max_settlements = 3
+	terrain = plains
+}
+127 = {
+	title = c_broadway_fifth_south
+	max_settlements = 3
+	terrain = plains
+}
+
+156 = {
+	title = c_koreatown_south
+	max_settlements = 3
+	terrain = plains
+}
+157 = {
+	title = c_koreatown_north
+	max_settlements = 3
+	terrain = plains
+}
+158 = {
+	title = c_herald_square_south
+	max_settlements = 3
+	terrain = plains
+}
+159 = {
+	title = c_herald_square_north
+	max_settlements = 3
+	terrain = plains
+}
+160 = {
+	title = c_americas_twentyfourth
+	max_settlements = 3
+	terrain = plains
+}
+161 = {
+	title = c_americas_thirtieth
+	max_settlements = 3
+	terrain = plains
+}
+162 = {
+	title = c_americas_broadway
+	max_settlements = 3
+	terrain = plains
+}
+
+166 = {
+	title = c_fourteenth_americas
+	max_settlements = 3
+	terrain = plains
+}
+
+196 = {
+	title = c_w_fourteenth_str_ninth_ave
+	max_settlements = 3
+	terrain = plains
+}

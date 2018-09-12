@@ -1,0 +1,19 @@
+# 64 - Broome and Ludlow
+
+# County Title
+title = c_broome_ludlow
+
+# Settlements
+max_settlements = 3
+b_broome_ludlow_01 = castle
+b_broome_ludlow_02 = city
+b_broome_ludlow_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

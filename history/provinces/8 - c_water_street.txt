@@ -1,0 +1,20 @@
+# 8 - Water Street
+
+# County Title
+title = c_water_street
+
+# Settlements
+max_settlements = 4
+b_pearl_st = castle
+b_old_slip = city
+b_front_st = city
+#b_pier_eleven = castle
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

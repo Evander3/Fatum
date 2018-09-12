@@ -1,0 +1,19 @@
+# 55 - Pier 35
+
+# County Title
+title = c_pier_thirty_five
+
+# Settlements
+max_settlements = 3
+b_pier_thirty_five_01 = castle
+b_pier_thirty_five_02 = city
+b_pier_thirty_five_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

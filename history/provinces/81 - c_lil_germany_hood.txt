@@ -1,0 +1,19 @@
+# 81 - Little Germany Neighborhood
+
+# County Title
+title = c_lil_germany_hood
+
+# Settlements
+max_settlements = 3
+b_lil_germany_hood_01 = castle
+b_lil_germany_hood_02 = city
+b_lil_germany_hood_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

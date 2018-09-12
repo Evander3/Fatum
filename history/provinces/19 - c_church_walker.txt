@@ -1,0 +1,19 @@
+# 19 - Church and Walker street
+
+# County Title
+title = c_church_walker
+
+# Settlements
+max_settlements = 3
+b_church_walker_01 = castle
+b_church_walker_02 = city
+b_church_walker_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

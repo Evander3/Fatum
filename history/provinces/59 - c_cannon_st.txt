@@ -1,0 +1,19 @@
+# 59 - Cannon street
+
+# County Title
+title = c_cannon_st
+
+# Settlements
+max_settlements = 3
+b_cannon_st_01 = castle
+b_cannon_st_02 = city
+b_cannon_st_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

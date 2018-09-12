@@ -1,0 +1,44 @@
+# Island regions - no land path from the continent
+# The AI needs these to optimize path finding
+#
+# NOTE: do not add any regions here that are NOT islands
+
+region_roosevelt_island = {
+	provinces = { 600 601 602 }
+}
+
+region_randalls_island = {
+	provinces = { 4000 4001 4002 4003 4004 4005 }
+}
+
+region_north_brother_island = {
+	provinces = { 4006 }
+}
+
+region_south_brother_island = {
+	provinces = { 4007 }
+}
+
+region_rickers_island = {
+	provinces = { 4008 }
+}
+
+region_mill_rock_island = {
+	provinces = { 4009 }
+}
+
+region_belmont_island = {
+	provinces = { 4010 }
+}
+
+region_governor_island = {
+	provinces = { 4011 }
+}
+
+region_ellis_island = {
+	provinces = { 4012 }
+}
+
+region_liberty_island = {
+	provinces = { 4013 }
+}

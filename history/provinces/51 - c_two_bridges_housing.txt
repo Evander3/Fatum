@@ -1,0 +1,19 @@
+# 51 - Two Bridges Housing
+
+# County Title
+title = c_two_bridges_housing
+
+# Settlements
+max_settlements = 3
+b_two_bridges_housing_01 = castle
+b_two_bridges_housing_02 = city
+b_two_bridges_housing_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

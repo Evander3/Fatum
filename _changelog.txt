@@ -1,0 +1,4 @@
+Changelog for Fatum ; the mafia-themed total conversion for CK2
+
+ - Git repo created, still trying to figure out how to deal with that s**t
+ - Ok so apparently I begin to grasp some notions of git ...

@@ -1,0 +1,19 @@
+# 86 - First & St Marks
+
+# County Title
+title = c_first_st_marks
+
+# Settlements
+max_settlements = 3
+b_first_st_marks_01 = castle
+b_first_st_marks_02 = city
+b_first_st_marks_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

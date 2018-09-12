@@ -1,0 +1,38 @@
+silk_road = {
+	wealth = 100			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.15
+		city_tax_modifier = 0.15
+		temple_tax_modifier = 0.15
+		trade_route_value = 1
+	}
+
+	start = {				# Start provinces of trade route
+		1128 # North freeway
+		3121 # JFK Airport
+		3500 # New Jersey docks
+		3669 # West New Jersey freeway
+	}
+
+	# North commodities route
+	path = {
+		1128 1127 1126 1123 1121 1117 1077 1079 1088 1087 1086 1020 441
+	}
+
+	# East commodities route
+	path = {
+		3121 3087 3090 3091 3096 1766 1765 1764 1761 1806 1807 1809 1817 1742 1743 1899
+		1898 1897 1893 1882 1877 1876 1873 1871 1954 1955 1951 1949 1927 1928 1926 1913 67
+	}
+
+	# South commodities route
+	path = {
+		3500 3502 3503 3507 3508 3509 3510 3513 3512 2
+	}
+
+	# West commodities route
+	path = {
+		3669 3668 3666 3670 3745 3751 3758 3759 186 184
+	}
+}

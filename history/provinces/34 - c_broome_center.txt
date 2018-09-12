@@ -1,0 +1,19 @@
+# 34 - Broome street and Center
+
+# County Title
+title = c_broome_center
+
+# Settlements
+max_settlements = 3
+b_broome_center_01 = castle
+b_broome_center_02 = city
+b_broome_center_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

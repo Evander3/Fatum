@@ -1,0 +1,20 @@
+# 15 - Radio Row
+# http://en.wikipedia.org/wiki/Radio_Row
+
+# County Title
+title = c_radio_row
+
+# Settlements
+max_settlements = 3
+b_city_radio = castle
+b_cortland_st = city
+#b_church_st = city
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

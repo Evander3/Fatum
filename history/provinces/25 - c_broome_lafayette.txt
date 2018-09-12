@@ -1,0 +1,19 @@
+# 25 - Broome and Lafayette
+
+# County Title
+title = c_broome_lafayette
+
+# Settlements
+max_settlements = 3
+b_broome_lafayette_01 = castle
+b_broome_lafayette_02 = city
+b_broome_lafayette_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

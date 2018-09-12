@@ -1,0 +1,1502 @@
+
+# MANHATTAN "EMPIRE"
+
+e_manhattan = {
+
+	color={ 102 2 60 }
+	color2={ 220 220 20 }
+	
+	capital = 12 # Wall Street (should be little italy ?)
+	
+	religion = cosa_nostra
+	culture = new_yorker
+	short_name = yes
+	
+	allow = {
+		always = no # Only created through special event
+	}
+	
+	k_lower_manhattan = {
+		color={ 158 14 64 }
+		color2={ 220 220 20 }
+		
+		culture = new_yorker
+		
+		capital = 12 # Wall Street
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture = new_yorker
+				}
+			}
+		}
+		
+		d_battery_park_city = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 3 # world financial center
+			
+			culture = new_yorker
+			
+			c_battery_park = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_battery_park = { }
+				b_castle_clinton = { }
+				b_battery_park_authority = { }
+			}
+			c_battery_place = {
+				color={ 25 128 57 }
+				color2={ 255 255 255 }
+				b_battery_park_market = { }
+				b_robert_wagner_park = { }
+				b_ritz_carlton_hotel = { }
+			}
+			c_south_end_ave = {
+				color={ 65 65 65 }
+				color2={ 255 255 255 }
+				b_ny_harbor_sportfishing = { }
+				b_pumphouse_park = { }
+				b_albany_street = { }
+				b_world_financial_center = { }
+			}
+			c_north_end_ave = {
+				color={ 165 165 165 }
+				color2={ 255 255 255 }
+				b_murray_st = { }
+				b_vesey_st = { }
+				b_rockfeller_park = { }
+			}
+		}
+		d_financial_district = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 7
+			
+			culture = new_yorker
+			
+			c_brooklyn_tunnel_entrance = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_washington_st = { }
+				b_trinity_place = { }
+				b_rector_st = { }
+			}
+			c_hudson_terminal = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_fulton_st = { }
+				b_liberty_st = { }
+				b_greenwich_st = { }
+			}
+			c_radio_row = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_city_radio = { }
+				b_cortland_st = { }
+				b_church_st = { }
+			}
+			c_cedar_plan = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_thames_st = { }
+				b_st_peter_rectory = { }
+				b_zuccoti_park = { }
+			}
+			c_wall_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broad_st = { }
+				b_trinity_church = { }
+				b_wall_street = { }
+			}
+			c_staten_island_ferry = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_south_ferry = { }
+				b_whitehall_st = { }
+				b_state_street = { }
+			}
+			c_hanover_square = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_stone_st = { }
+				b_hanover_square = { }
+				b_broad_street = { }
+			}
+			c_water_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_pearl_st = { }
+				b_old_slip = { }
+				b_front_st = { }
+				b_pier_eleven = { }
+			}
+			c_nyc_commissioner_office = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_nyc_commissioner_office_01 = { }
+				b_nyc_commissioner_office_02 = { }
+				b_nyc_commissioner_office_03 = { }
+				b_nyc_commissioner_office_04 = { }
+				b_nyc_commissioner_office_05 = { }
+				b_nyc_commissioner_office_06 = { }
+			}
+			c_south_street_seaport = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_south_street_seaport_01 = { }
+				b_south_street_seaport_02 = { }
+				b_south_street_seaport_03 = { }
+			}
+			c_john_ann_st = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_john_ann_st_01 = { }
+				b_john_ann_st_02 = { }
+				b_john_ann_st_03 = { }
+			}
+		}
+		d_civic_center = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 43
+			
+			culture = new_yorker
+			
+			c_city_hall = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_city_hall_01 = { }
+				b_city_hall_02 = { }
+				b_city_hall_03 = { }
+			}
+			c_pace_university = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_pace_university_01 = { }
+				b_pace_university_02 = { }
+				b_pace_university_03 = { }
+			}
+			c_bancker_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_bancker_street_01 = { }
+				b_bancker_street_02 = { }
+				b_bancker_street_03 = { }
+			}
+			c_one_police_plaza = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_one_police_plaza_01 = { }
+				b_one_police_plaza_02 = { }
+				b_one_police_plaza_03 = { }
+			}
+			c_judiciar_city = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_judiciar_city_01 = { }
+				b_judiciar_city_02 = { }
+				b_judiciar_city_03 = { }
+			}
+			c_foley_square_block = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_foley_square_block_01 = { }
+				b_foley_square_block_02 = { }
+				b_foley_square_block_03 = { }
+			}
+		}
+		d_two_bridges = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 49
+			
+			culture = new_yorker
+				# historically Irish and Italian
+				# 1950 -> Black and Hispanic
+				# 1990 -> Chinese
+			
+			c_catherine_slip = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_catherine_slip_01 = { }
+				b_catherine_slip_02 = { }
+				b_catherine_slip_03 = { }
+			}
+			c_st_james_triangle = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_st_james_triangle_01 = { }
+				b_st_james_triangle_02 = { }
+				b_st_james_triangle_03 = { }
+			}
+			c_south_street_viaduct = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_south_street_viaduct_01 = { }
+				b_south_street_viaduct_02 = { }
+				b_south_street_viaduct_03 = { }
+			}
+			c_madison_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_madison_street_01 = { }
+				b_madison_street_02 = { }
+				b_madison_street_03 = { }
+			}
+			c_two_bridges_housing = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_two_bridges_housing_01 = { }
+				b_two_bridges_housing_02 = { }
+				b_two_bridges_housing_03 = { }
+			}
+		}
+		d_tribeca = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 18
+			
+			culture = new_yorker
+			
+			c_chambers_greenwich = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_chambers_greenwich_01 = { }
+				b_chambers_greenwich_02 = { }
+				b_chambers_greenwich_03 = { }
+			}
+			c_chambers_church = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_chambers_church_01 = { }
+				b_chambers_church_02 = { }
+				b_chambers_church_03 = { }
+			}
+			c_tribeca_piers = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_tribeca_piers_01 = { }
+				b_tribeca_piers_02 = { }
+				b_tribeca_piers_03 = { }
+			}
+			c_church_walker = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_church_walker_01 = { }
+				b_church_walker_02 = { }
+				b_church_walker_03 = { }
+			}
+			c_hubert_hudson = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_hubert_hudson_01 = { }
+				b_hubert_hudson_02 = { }
+				b_hubert_hudson_03 = { }
+			}
+			c_canal_west = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_canal_west_01 = { }
+				b_canal_west_02 = { }
+				b_canal_west_03 = { }
+			}
+		}
+		d_soho = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 18
+			
+			culture = new_yorker
+			
+			c_pier_forty = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_pier_forty_01 = { }
+				b_pier_forty_02 = { }
+				b_pier_forty_03 = { }
+			}
+			c_spring_varick = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_spring_varick_01 = { }
+				b_spring_varick_02 = { }
+				b_spring_varick_03 = { }
+			}
+			c_broome_streets = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broome_streets_01 = { }
+				b_broome_streets_02 = { }
+				b_broome_streets_03 = { }
+			}
+			c_broome_broadway = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broome_broadway_01 = { }
+				b_broome_broadway_02 = { }
+				b_broome_broadway_03 = { }
+			}
+			c_thompson_prince = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_thompson_prince_01 = { }
+				b_thompson_prince_02 = { }
+				b_thompson_prince_03 = { }
+			}
+			c_sullivan_prince = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_sullivan_prince_01 = { }
+				b_sullivan_prince_02 = { }
+				b_sullivan_prince_03 = { }
+			}
+			c_broadway_prince = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broadway_prince_01 = { }
+				b_broadway_prince_02 = { }
+				b_broadway_prince_03 = { }
+			}
+			c_broome_lafayette = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broome_lafayette_01 = { }
+				b_broome_lafayette_02 = { }
+				b_broome_lafayette_03 = { }
+			}
+		}
+		d_chinatown = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 39
+			
+			culture = new_yorker
+			
+			c_five_points = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_five_points_01 = { }
+				b_five_points_02 = { }
+				b_five_points_03 = { }
+			}
+			c_nyc_civil_court = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_nyc_civil_court_01 = { }
+				b_nyc_civil_court_02 = { }
+				b_nyc_civil_court_03 = { }
+			}
+			c_walker_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_walker_street_01 = { }
+				b_walker_street_02 = { }
+				b_walker_street_03 = { }
+			}
+			c_canal_st_bridge = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_canal_st_bridge_01 = { }
+				b_canal_st_bridge_02 = { }
+				b_canal_st_bridge_03 = { }
+			}
+			c_chinatown = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_chinatown_01 = { }
+				b_chinatown_02 = { }
+				b_chinatown_03 = { }
+			}
+		}
+		d_little_italy = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 34
+			
+			culture = new_yorker
+			
+			c_hester_mott = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_hester_mott_01 = { }
+				b_hester_mott_02 = { }
+				b_hester_mott_03 = { }
+			}
+			c_center_st = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_center_st_01 = { }
+				b_center_st_02 = { }
+				b_center_st_03 = { }
+			}
+			c_broome_center = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broome_center_01 = { }
+				b_broome_center_02 = { }
+				b_broome_center_03 = { }
+			}
+			c_canal_lafayette = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_canal_lafayette_01 = { }
+				b_canal_lafayette_02 = { }
+				b_canal_lafayette_03 = { }
+			}
+			c_nolita_south = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_nolita_south_01 = { }
+				b_nolita_south_02 = { }
+				b_nolita_south_03 = { }
+			}
+			c_nolita_north = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_nolita_north_01 = { }
+				b_nolita_north_02 = { }
+				b_nolita_north_03 = { }
+			}
+		}
+		d_bowery = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 66
+			
+			culture = new_yorker
+			
+			c_grand_st_chrystie = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_grand_st_chrystie_01 = { }
+				b_grand_st_chrystie_02 = { }
+				b_grand_st_chrystie_03 = { }
+			}
+			c_chrystie_forsythe_st = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_chrystie_forsythe_st_01 = { }
+				b_chrystie_forsythe_st_02 = { }
+				b_chrystie_forsythe_st_03 = { }
+				b_chrystie_forsythe_st_04 = { }
+			}
+			c_houston_scnd_ave = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_houston_scnd_ave_01 = { }
+				b_houston_scnd_ave_02 = { }
+				b_houston_scnd_ave_03 = { }
+			}
+		}
+		d_lower_east_side = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 62
+			
+			culture = new_yorker
+			
+			c_houston_essex = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_houston_essex_01 = { }
+				b_houston_essex_02 = { }
+				b_houston_essex_03 = { }
+			}
+			c_norfolk_rivington = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_norfolk_rivington_01 = { }
+				b_norfolk_rivington_02 = { }
+				b_norfolk_rivington_03 = { }
+			}
+			c_stanton_clinton = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_stanton_clinton_01 = { }
+				b_stanton_clinton_02 = { }
+				b_stanton_clinton_03 = { }
+			}
+			c_rivington_columbia = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_rivington_columbia_01 = { }
+				b_rivington_columbia_02 = { }
+				b_rivington_columbia_03 = { }
+			}
+			c_east_river_park = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_east_river_park_01 = { }
+				b_east_river_park_02 = { }
+				b_east_river_park_03 = { }
+			}
+			c_broome_ludlow = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broome_ludlow_01 = { }
+				b_broome_ludlow_02 = { }
+				b_broome_ludlow_03 = { }
+			}
+			c_broome_clinton = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broome_clinton_01 = { }
+				b_broome_clinton_02 = { }
+				b_broome_clinton_03 = { }
+			}
+			c_seward_park = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_seward_park_01 = { }
+				b_seward_park_02 = { }
+				b_seward_park_03 = { }
+			}
+			c_pitt_broadway = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_pitt_broadway_01 = { }
+				b_pitt_broadway_02 = { }
+				b_pitt_broadway_03 = { }
+			}
+			c_willett_grand = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_willett_grand_01 = { }
+				b_willett_grand_02 = { }
+				b_willett_grand_03 = { }
+			}
+			c_cannon_st = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_cannon_st_01 = { }
+				b_cannon_st_02 = { }
+				b_cannon_st_03 = { }
+			}
+			c_grand_east_river_dr = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_grand_east_river_dr_01 = { }
+				b_grand_east_river_dr_02 = { }
+				b_grand_east_river_dr_03 = { }
+			}
+			c_corlears_hook_park = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_corlears_hook_park_01 = { }
+				b_corlears_hook_park_02 = { }
+				b_corlears_hook_park_03 = { }
+			}
+			c_pier_thirty_five = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_pier_thirty_five_01 = { }
+				b_pier_thirty_five_02 = { }
+				b_pier_thirty_five_03 = { }
+			}
+			c_montgomery_madison = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_montgomery_madison_01 = { }
+				b_montgomery_madison_02 = { }
+				b_montgomery_madison_03 = { }
+			}
+			c_cherry_rutgers = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_cherry_rutgers_01 = { }
+				b_cherry_rutgers_02 = { }
+				b_cherry_rutgers_03 = { }
+			}
+			c_pike_henry = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_pike_henry_01 = { }
+				b_pike_henry_02 = { }
+				b_pike_henry_03 = { }
+			}
+		}
+		d_alphabet_city = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			capital = 77 # ABC North
+			
+			culture = new_yorker
+			
+			c_alphabet_city_south = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_alphabet_city_south_01 = { }
+				b_alphabet_city_south_02 = { }
+				b_alphabet_city_south_03 = { }
+			}
+			c_alphabet_city_north = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_alphabet_city_north_01 = { }
+				b_alphabet_city_north_02 = { }
+				b_alphabet_city_north_03 = { }
+			}
+			c_east_river_promenade = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_east_river_promenade_01 = { }
+				b_east_river_promenade_02 = { }
+				b_east_river_promenade_03 = { }
+			}
+			c_eigth_avenue_c = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_eigth_avenue_c_01 = { }
+				b_eigth_avenue_c_02 = { }
+				b_eigth_avenue_c_03 = { }
+			}
+			c_tenth_str_east = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_tenth_str_east_01 = { }
+				b_tenth_str_east_02 = { }
+				b_tenth_str_east_03 = { }
+			}
+			c_old_dry_docks = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_old_dry_docks_01 = { }
+				b_old_dry_docks_02 = { }
+				b_old_dry_docks_03 = { }
+			}
+		}
+		d_east_village = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_lil_germany_hood = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_lil_germany_hood_01 = { }
+				b_lil_germany_hood_02 = { }
+				b_lil_germany_hood_03 = { }
+			}
+			c_lil_germany = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_lil_germany_01 = { }
+				b_lil_germany_02 = { }
+				b_lil_germany_03 = { }
+			}
+			c_twelfth_avenue_b = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_twelfth_avenue_b_01 = { }
+				b_twelfth_avenue_b_02 = { }
+				b_twelfth_avenue_b_03 = { }
+			}
+			c_sixth_avenue_b = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_sixth_avenue_b_01 = { }
+				b_sixth_avenue_b_02 = { }
+				b_sixth_avenue_b_03 = { }
+			}
+			c_third_str_first = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_third_str_first_01 = { }
+				b_third_str_first_02 = { }
+				b_third_str_first_03 = { }
+			}
+			c_cooper_square = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_cooper_square_01 = { }
+				b_cooper_square_02 = { }
+				b_cooper_square_03 = { }
+			}
+			c_first_st_marks = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_first_st_marks_01 = { }
+				b_first_st_marks_02 = { }
+				b_first_st_marks_03 = { }
+			}
+			c_twelfth_str_central = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_twelfth_str_central_01 = { }
+				b_twelfth_str_central_02 = { }
+				b_twelfth_str_central_03 = { }
+			}
+			c_end_avenue_a = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_end_avenue_a_01 = { }
+				b_end_avenue_a_02 = { }
+				b_end_avenue_a_03 = { }
+			}
+		}
+		d_noho = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_bowery_houston = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_bowery_houston_01 = { }
+				b_bowery_houston_02 = { }
+				b_bowery_houston_03 = { }
+			}
+			c_fourth_lafayette = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_fourth_lafayette_01 = { }
+				b_fourth_lafayette_02 = { }
+				b_fourth_lafayette_03 = { }
+			}
+			c_lafayette_broadway = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_lafayette_broadway_01 = { }
+				b_lafayette_broadway_02 = { }
+				b_lafayette_broadway_03 = { }
+			}
+			c_astor_broadway = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_astor_broadway_01 = { }
+				b_astor_broadway_02 = { }
+				b_astor_broadway_03 = { }
+			}
+			c_fourth_avenue = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_fourth_avenue_01 = { }
+				b_fourth_avenue_02 = { }
+				b_fourth_avenue_03 = { }
+			}
+		}
+		d_greenwich_the_village = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_washington_square = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_washington_square_01 = { }
+				b_washington_square_02 = { }
+				b_washington_square_03 = { }
+			}
+			c_bleecker_macdougal = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_bleecker_macdougal_01 = { }
+				b_bleecker_macdougal_02 = { }
+				b_bleecker_macdougal_03 = { }
+			}
+			c_mercer_third = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_mercer_third_01 = { }
+				b_mercer_third_02 = { }
+				b_mercer_third_03 = { }
+			}
+			c_e_eighth_str_university = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_e_eighth_str_university_01 = { }
+				b_e_eighth_str_university_02 = { }
+				b_e_eighth_str_university_03 = { }
+			}
+			c_w_twelfth_str_fifth = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_w_twelfth_str_fifth_01 = { }
+				b_w_twelfth_str_fifth_02 = { }
+				b_w_twelfth_str_fifth_03 = { }
+			}
+		}
+		d_west_village = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_bedford_seventh_s = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_bedford_seventh_s_01 = { }
+				b_bedford_seventh_s_02 = { }
+				b_bedford_seventh_s_03 = { }
+			}
+			c_leroy_greenwich = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_leroy_greenwich_01 = { }
+				b_leroy_greenwich_02 = { }
+				b_leroy_greenwich_03 = { }
+			}
+			c_washington_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_washington_street_01 = { }
+				b_washington_street_02 = { }
+				b_washington_street_03 = { }
+			}
+			c_bethune_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_bethune_street_01 = { }
+				b_bethune_street_02 = { }
+				b_bethune_street_03 = { }
+			}
+			c_hudson_jane = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_hudson_jane_01 = { }
+				b_hudson_jane_02 = { }
+				b_hudson_jane_03 = { }
+			}
+			c_greenwich_w_twelfth_str = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_greenwich_w_twelfth_str_01 = { }
+				b_greenwich_w_twelfth_str_02 = { }
+				b_greenwich_w_twelfth_str_03 = { }
+			}
+			c_greenwich_americas = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_greenwich_americas_01 = { }
+				b_greenwich_americas_02 = { }
+				b_greenwich_americas_03 = { }
+			}
+			c_grove_street = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_grove_street_01 = { }
+				b_grove_street_02 = { }
+				b_grove_street_03 = { }
+			}
+			c_christopher_hudson = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_christopher_hudson_01 = { }
+				b_christopher_hudson_02 = { }
+				b_christopher_hudson_03 = { }
+			}
+			c_bleecker_bank = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_bleecker_bank_01 = { }
+				b_bleecker_bank_02 = { }
+				b_bleecker_bank_03 = { }
+			}
+		}
+		d_meat_packing_district = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_lil_w_twelfth_str = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_lil_w_twelfth_str_01 = { }
+				b_lil_w_twelfth_str_02 = { }
+				b_lil_w_twelfth_str_03 = { }
+			}
+			c_w_fourteenth_str_ninth_ave = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_w_fourteenth_str_ninth_ave_01 = { }
+				b_w_fourteenth_str_ninth_ave_02 = { }
+				b_w_fourteenth_str_ninth_ave_03 = { }
+			}
+		}
+	}
+	k_midtown = {
+		color={ 112 41 99 }
+		color2={ 220 220 20 }
+		
+		culture = new_yorker
+		
+		capital = 12 # Wall Street
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture = new_yorker
+				}
+			}
+		}
+		
+		d_chelsea = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_fourteenth_americas = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_fourteenth_americas_01 = { }
+				b_fourteenth_americas_02 = { }
+				b_fourteenth_americas_03 = { }
+			}
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_tenderloin = {
+			c_broadway_fifth_south = {
+			# flatiron building
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broadway_fifth_south_01 = { }
+				b_broadway_fifth_south_02 = { }
+				b_broadway_fifth_south_03 = { }
+			}
+			c_fifth_twentyfourth = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_fifth_twentyfourth_01 = { }
+				b_fifth_twentyfourth_02 = { }
+				b_fifth_twentyfourth_03 = { }
+			}
+			c_nomad_e = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_nomad_e_01 = { }
+				b_nomad_e_02 = { }
+				b_nomad_e_03 = { }
+			}
+			c_nomad_n_w = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_nomad_n_w_01 = { }
+				b_nomad_n_w_02 = { }
+				b_nomad_n_w_03 = { }
+			}
+			c_nomad_s_w = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_nomad_s_w_01 = { }
+				b_nomad_s_w_02 = { }
+				b_nomad_s_w_03 = { }
+			}
+			c_koreatown_south = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_koreatown_south_01 = { }
+				b_koreatown_south_02 = { }
+				b_koreatown_south_03 = { }
+			}
+			c_koreatown_north = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_koreatown_north_01 = { }
+				b_koreatown_north_02 = { }
+				b_koreatown_north_03 = { }
+			}
+			c_herald_square_south = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_herald_square_south_01 = { }
+				b_herald_square_south_02 = { }
+				b_herald_square_south_03 = { }
+			}
+			c_americas_twentyfourth = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_americas_twentyfourth_01 = { }
+				b_americas_twentyfourth_02 = { }
+				b_americas_twentyfourth_03 = { }
+			}
+			c_americas_thirtieth = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_americas_thirtieth_01 = { }
+				b_americas_thirtieth_02 = { }
+				b_americas_thirtieth_03 = { }
+			}
+			c_americas_broadway = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_americas_broadway_01 = { }
+				b_americas_broadway_02 = { }
+				b_americas_broadway_03 = { }
+			}
+		}
+		d_garment_district = {
+			c_herald_square_north = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_herald_square_north_01 = { }
+				b_herald_square_north_02 = { }
+				b_herald_square_north_03 = { }
+			}
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_murray_hill = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_gramercy = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_union_square = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_union_square_01 = { }
+				b_union_square_02 = { }
+				b_union_square_03 = { }
+			}
+			c_irving_plaza = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_irving_plaza_01 = { }
+				b_irving_plaza_02 = { }
+				b_irving_plaza_03 = { }
+			}
+			c_gramercy_park = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_gramercy_park_01 = { }
+				b_gramercy_park_02 = { }
+				b_gramercy_park_03 = { }
+			}
+			c_stuyvesant_square = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_stuyvesant_square_01 = { }
+				b_stuyvesant_square_02 = { }
+				b_stuyvesant_square_03 = { }
+			}
+			c_e_twenty_third_second_ave = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_e_twenty_third_second_ave_01 = { }
+				b_e_twenty_third_second_ave_02 = { }
+				b_e_twenty_third_second_ave_03 = { }
+			}
+			c_broadway_park_ave = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_broadway_park_ave_01 = { }
+				b_broadway_park_ave_02 = { }
+				b_broadway_park_ave_03 = { }
+			}
+		}
+		d_rose_hill = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_madison_square = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_madison_square_01 = { }
+				b_madison_square_02 = { }
+				b_madison_square_03 = { }
+			}
+			# c_broadway_fifth_ave = {
+				# color={ 168 168 168 }
+				# color2={ 255 255 255 }
+				# b_broadway_fifth_ave_01 = { }
+				# b_broadway_fifth_ave_02 = { }
+				# b_broadway_fifth_ave_03 = { }
+			# }
+			c_lexington_thirtieth = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_lexington_thirtieth_01 = { }
+				b_lexington_thirtieth_02 = { }
+				b_lexington_thirtieth_03 = { }
+			}
+			c_madison_twenty_ninth = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_madison_twenty_ninth_01 = { }
+				b_madison_twenty_ninth_02 = { }
+				b_madison_twenty_ninth_03 = { }
+			}
+			c_e_twenty_fourth_lexington = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_e_twenty_fourth_lexington_01 = { }
+				b_e_twenty_fourth_lexington_02 = { }
+				b_e_twenty_fourth_lexington_03 = { }
+			}
+		}
+		d_stuyvesant_town = {
+			# original name : Gashouse District
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+			
+			# capital = 34
+			
+			culture = new_yorker
+			
+			c_peter_cooper_village = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_peter_cooper_village_01 = { }
+				b_peter_cooper_village_02 = { }
+				b_peter_cooper_village_03 = { }
+			}
+			c_stuyvesant_cove_park = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_stuyvesant_cove_park_01 = { }
+				b_stuyvesant_cove_park_02 = { }
+				b_stuyvesant_cove_park_03 = { }
+			}
+			c_twentieth_str_east = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_twentieth_str_east_01 = { }
+				b_twentieth_str_east_02 = { }
+				b_twentieth_str_east_03 = { }
+			}
+			c_old_gashouse = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_old_gashouse_01 = { }
+				b_old_gashouse_02 = { }
+				b_old_gashouse_03 = { }
+			}
+			c_stuyvesant_farm = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b_stuyvesant_farm_01 = { }
+				b_stuyvesant_farm_02 = { }
+				b_stuyvesant_farm_03 = { }
+			}
+		}
+		d_kips_bay = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_turtle_bay = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_midtown = {
+			c_diamond_district = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_hells_kitchen = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_theater_district = { # times square
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_clinton = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+	}
+	k_upper_sides = {
+		color={ 102 0 255 }
+		color2={ 220 220 20 }
+		
+		culture = new_yorker
+		
+		capital = 12 # Wall Street
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture = new_yorker
+				}
+			}
+		}
+		
+		d_central_park = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_manhattan_valley = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_upper_west_side_central = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_morningside_heights = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_lincoln_square = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_carnegie_hill = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_yorkville = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_lenox_hill = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_upper_east_side_central = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_roosevelt_island = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+	}
+	k_harlem = {
+		d_spanish_harlem = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_east_harlem = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_manhattanville = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_hamilton_heights = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_sugar_hills = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_harlem = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+	}
+	k_heights = {
+		d_washington_heights = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_hudson_heights = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_fort_george = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+		d_inwood = {
+			c_ = {
+				color={ 168 168 168 }
+				color2={ 255 255 255 }
+				b__01 = { }
+				b__02 = { }
+				b__03 = { }
+			}
+		}
+	}
+}

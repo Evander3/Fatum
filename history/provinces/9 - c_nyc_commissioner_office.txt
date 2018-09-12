@@ -1,0 +1,26 @@
+# 9 - NYC Commissioner Office
+
+# County Title
+title = c_nyc_commissioner_office
+
+# Settlements
+max_settlements = 6
+b_nyc_commissioner_office_01 = castle
+b_nyc_commissioner_office_02 = city
+b_nyc_commissioner_office_03 = temple
+b_nyc_commissioner_office_04 = castle
+b_nyc_commissioner_office_05 = city
+b_nyc_commissioner_office_06 = city
+
+#b_pearl_st = castle
+#b_titanic_memorial_park = city
+#b_east_river_bikeway = city
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

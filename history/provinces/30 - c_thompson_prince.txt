@@ -1,0 +1,19 @@
+# 30 - Thompson and Prince streets
+
+# County Title
+title = c_thompson_prince
+
+# Settlements
+max_settlements = 3
+b_thompson_prince_01 = castle
+b_thompson_prince_02 = city
+b_thompson_prince_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

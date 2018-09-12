@@ -1,0 +1,19 @@
+# 72 - Houston & 2nd avenue
+
+# County Title
+title = c_houston_scnd_ave
+
+# Settlements
+max_settlements = 3
+b_houston_scnd_ave_01 = castle
+b_houston_scnd_ave_02 = city
+b_houston_scnd_ave_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

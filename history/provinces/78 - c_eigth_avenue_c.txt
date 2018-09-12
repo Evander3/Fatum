@@ -1,0 +1,19 @@
+# 78 - 8th & Avenue C
+
+# County Title
+title = c_eigth_avenue_c
+
+# Settlements
+max_settlements = 3
+b_eigth_avenue_c_01 = castle
+b_eigth_avenue_c_02 = city
+b_eigth_avenue_c_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,19 @@
+# 29 - Broadway and Prince
+
+# County Title
+title = c_broadway_prince
+
+# Settlements
+max_settlements = 3
+b_broadway_prince_01 = castle
+b_broadway_prince_02 = city
+b_broadway_prince_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

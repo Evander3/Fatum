@@ -1,0 +1,19 @@
+# 48 - Catherine slip
+
+# County Title
+title = c_catherine_slip
+
+# Settlements
+max_settlements = 3
+b_catherine_slip_01 = castle
+b_catherine_slip_02 = city
+b_catherine_slip_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

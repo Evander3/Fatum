@@ -1,0 +1,20 @@
+# 45 - One Police Plaza
+# http://en.wikipedia.org/wiki/Civic_Center,_Manhattan
+
+# County Title
+title = c_one_police_plaza
+
+# Settlements
+max_settlements = 3
+b_one_police_plaza_01 = castle
+b_one_police_plaza_02 = city
+b_one_police_plaza_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

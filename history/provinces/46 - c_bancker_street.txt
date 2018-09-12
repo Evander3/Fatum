@@ -1,0 +1,20 @@
+# 46 - Bancker Street
+# http://www.nycgovparks.org/parks/jamesmadisonplaza/
+
+# County Title
+title = c_bancker_street
+
+# Settlements
+max_settlements = 3
+b_bancker_street_01 = castle
+b_bancker_street_02 = city
+b_bancker_street_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

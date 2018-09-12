@@ -1,0 +1,19 @@
+# 43 - City Hall
+
+# County Title
+title = c_city_hall
+
+# Settlements
+max_settlements = 3
+b_city_hall_01 = castle
+b_city_hall_02 = city
+b_city_hall_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

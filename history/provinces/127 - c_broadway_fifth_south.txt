@@ -1,0 +1,19 @@
+# 127 - Broadway & 5th Ave.
+
+# County Title
+title = c_broadway_fifth_south
+
+# Settlements
+max_settlements = 3
+b_broadway_fifth_south_01 = castle
+b_broadway_fifth_south_02 = city
+b_broadway_fifth_south_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

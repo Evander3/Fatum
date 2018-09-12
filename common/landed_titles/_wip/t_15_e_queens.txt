@@ -1,0 +1,163 @@
+
+# QUEENS "EMPIRE"
+
+e_queens = {
+	k_long_island_city = {
+		d_long_island_city = {
+		}
+		d_astoria = {
+		}
+		d_steinway = {
+		}
+		d_sunnyside = {
+		}
+		d_maspeth = {
+		}
+	}
+	k_jackson_heights = {
+		d_laguardia = {
+		}
+		d_east_elmhurst = {
+		}
+		d_jackson_heights = {
+		}
+		d_north_corona = {
+		}
+		d_corona = {
+		}
+		d_elmhurst = {
+		}
+		d_woodside = {
+		}
+	}
+	k_forest_park = {
+		d_lefrak_city = {
+		}
+		d_rego_park = {
+		}
+		d_middle_village = {
+		}
+		d_ridgewood = {
+		}
+		d_glendale = {
+		}
+		d_woodhaven = {
+		}
+		d_forest_hills = {
+		}
+		d_kew_gardens = {
+		}
+		d_richmond_hill = {
+		}
+		d_ozone_park = {
+		}
+	}
+	k_the_rockaways = {
+		d_lindenwood = {
+		}
+		d_howard_beach = {
+		}
+		# d_jamaica_bay_refuge = {
+		# }
+		# d_breezy_point = {
+		# }
+		# d_fort_tilden = {
+		# }
+		# d_roxbury = {
+		# }
+		# d_jacob_riis_park = {
+		# }
+		# d_belle_harbor = {
+		# }
+		# d_rockaway_park = {
+		# }
+		# d_seaside = {
+		# }
+		# d_arverne = {
+		# }
+		# d_somerville = {
+		# }
+		# d_edgemere = {
+		# }
+		# d_far_rockaway = {
+		# }
+	}
+	k_flushing_ne = {
+		d_malba = {
+		}
+		d_college_point = {
+		}
+		d_downtown_flushing = {
+		}
+		d_flushing_meadows = {
+		}
+		d_queensborough_hill = {
+		}
+		# d_kew_gardens_hills = {
+		# }
+		# d_briarwood = {
+		# }
+		# d_jamaica_hills = {
+		# }
+		# d_jamaica_estates = {
+		# }
+		# d_holliswood = {
+		# }
+		# d_hillcrest = {
+		# }
+		# d_pomonok = {
+		# }
+		# d_utopia = {
+		# }
+		# d_fresh_meadows = {
+		# }
+		# d_oakland_gardens = {
+		# }
+		# d_bellaire = {
+		# }
+		# d_bellerose = {
+		# }
+		# d_floral_park = {
+		# }
+		# d_glen_oaks = {
+		# }
+		# d_douglaston = {
+		# }
+		# d_little_neck_east = {
+		# }
+		# d_bayside = {
+		# }
+		# d_little_neck_west = {
+		# }
+		# d_beechhuurst = {
+		# }
+		# d_whitestone = {
+		# }
+		# d_auburndale = {
+		# }
+		# d_murray_hill_queens = {
+		# }
+	}
+	# k_jamaica = {
+		# d_south_ozone_park = {
+		# }
+		# d_jamaica = {
+		# }
+		# d_hollis = {
+		# }
+		# d_queens_village = {
+		# }
+		# d_cambria_heights = {
+		# }
+		# d_laurelton = {
+		# }
+		# d_rochdale = {
+		# }
+		# d_rosedale = {
+		# }
+		# d_springfield_gardens = {
+		# }
+		# d_jfk_airport = {
+		# }
+	# }
+}

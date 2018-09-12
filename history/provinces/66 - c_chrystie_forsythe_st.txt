@@ -1,0 +1,22 @@
+# 66 - Chrystie and Forsythe Streets
+
+# County Title
+title = c_chrystie_forsythe_st
+
+# Settlements
+max_settlements = 4
+b_chrystie_forsythe_st_01 = castle
+b_chrystie_forsythe_st_02 = city
+b_chrystie_forsythe_st_03 = temple
+#b_chrystie_forsythe_st_04 = city
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+1934.1.1 = {
+	b_chrystie_forsythe_st_04 = city
+}
+

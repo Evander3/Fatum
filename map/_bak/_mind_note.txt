@@ -1,0 +1,27 @@
+manhattan provinces :
+1 - 602
+bronx provinces :
+1000 - 1262
+brooklynn provinces :
+1500 - 2014
+queens provinces :
+2500 - 3121
+new_jersey provinces :
+3500 - 3780
+special provinces :
+4000 - 4013
+sea provinces :
+4250 - 4275
+lakes provinces :
+4300 - 4311
+
+total provinces :
+602 +
+263 +
+515 +
+622 +
+281 +
+14  +
+26  +
+12  =
+2335 land provinces

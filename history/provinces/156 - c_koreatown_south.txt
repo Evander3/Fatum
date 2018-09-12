@@ -1,0 +1,19 @@
+# 156 - Koreatown South
+
+# County Title
+title = c_koreatown_south
+
+# Settlements
+max_settlements = 3
+b_koreatown_south_01 = castle
+b_koreatown_south_02 = city
+b_koreatown_south_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

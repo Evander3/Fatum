@@ -1,0 +1,19 @@
+# 110 - Washington Square
+
+# County Title
+title = c_washington_square
+
+# Settlements
+max_settlements = 3
+b_washington_square_01 = castle
+b_washington_square_02 = city
+b_washington_square_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

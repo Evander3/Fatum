@@ -1,0 +1,44 @@
+
+# CREWS
+# in Fatum, the crews are street gangs who give a high priority to their
+# tradition, so you can hire them if you have the same tradition (i.e. religion)
+# and high respect, so it's like the vanilla holy orders
+
+d_dummy_crew = {
+	color={ 230 230 230 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+						hashshashingfx
+						bektashigfx
+						norseholygfx
+						immortalsgfx
+						jewishholygfx
+						orthodoxholygfx
+						westafricanholygfx
+						slavicholygfx
+						balticholygfx
+						finnishholygfx
+						aztecholygfx
+	
+	capital = 1 # Battery park
+	
+	title = "BOSS"
+	foa = "BOSS_FOA"
+	
+	landless = yes # Always exists
+	
+	holy_order = yes
+	
+	culture = italian
+	
+	religion = cosa_nostra
+	
+	primary = yes # Cannot be held as a secondary title
+	
+	independent = yes # Cannot be vassalized
+	
+	monthly_income = 10 # i2^9 (1-512)
+	
+	modifier = d_dummy_crew_modifier
+}

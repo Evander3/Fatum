@@ -1,0 +1,19 @@
+# 71 - Houston and Essex
+
+# County Title
+title = c_houston_essex
+
+# Settlements
+max_settlements = 3
+b_houston_essex_01 = castle
+b_houston_essex_02 = city
+b_houston_essex_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

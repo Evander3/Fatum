@@ -1,0 +1,19 @@
+# 61 - Pitt and Broadway
+
+# County Title
+title = c_pitt_broadway
+
+# Settlements
+max_settlements = 3
+b_pitt_broadway_01 = castle
+b_pitt_broadway_02 = city
+b_pitt_broadway_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

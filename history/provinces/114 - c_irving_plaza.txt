@@ -1,0 +1,19 @@
+# 114 - Irving Plaza
+
+# County Title
+title = c_irving_plaza
+
+# Settlements
+max_settlements = 3
+b_irving_plaza_01 = castle
+b_irving_plaza_02 = city
+b_irving_plaza_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

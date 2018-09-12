@@ -1,0 +1,75 @@
+
+# HORDES
+
+e_mexikha = {
+	color = { 255 127 0 }
+	
+	short_name = yes
+	
+#	capital = 1
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = nahuatl
+	religion = aztec
+}
+
+e_golden_horde = {
+	color = { 243 180 17 }
+	
+	capital = 622
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+
+e_il-khanate = {
+	color = { 120 180 20 }
+	
+	capital = 622
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+
+e_mongol_empire = {
+	color = { 255 255 255 }
+	color2 = { 255 20 20 }
+	
+	capital = 622
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+
+e_timurids = {
+	color = { 120 20 20 }
+	
+	capital = 900
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = sunni
+}

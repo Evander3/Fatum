@@ -1,0 +1,19 @@
+# 14 - Cedar Plan
+
+# County Title
+title = c_cedar_plan
+
+# Settlements
+max_settlements = 3
+b_thames_st = castle
+b_st_peter_rectory = temple
+#b_zuccoti_park = city
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,19 @@
+# 161 - Americas & 30th
+
+# County Title
+title = c_americas_thirtieth
+
+# Settlements
+max_settlements = 3
+b_americas_thirtieth_01 = castle
+b_americas_thirtieth_02 = city
+b_americas_thirtieth_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

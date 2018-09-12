@@ -1,0 +1,11 @@
+name="Fatum v0.1"
+path="mod/Fatum"
+
+replace_path="localisation"
+replace_path="decisions"
+replace_path="events"
+replace_path="history/characters"
+replace_path="history/provinces"
+replace_path="history/technology"
+replace_path="history/titles"
+replace_path="history/wars"

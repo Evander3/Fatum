@@ -1,0 +1,19 @@
+# 82 - Little Germany
+
+# County Title
+title = c_lil_germany
+
+# Settlements
+max_settlements = 3
+b_lil_germany_01 = castle
+b_lil_germany_02 = city
+b_lil_germany_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

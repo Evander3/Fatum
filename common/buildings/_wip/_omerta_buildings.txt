@@ -1,0 +1,35 @@
+Locations are divided into three types: those set up in Joints, rented in Premises, or built on building sites.
+
+Joints:
+Speakeasy – sells your Beer and Liquor for $; serves as a small warehouse
+Ponzi Scheme – collects $ dependent on Liked rating; paying out lessens your respect in the district
+Protection Racket – collects $ dependent on the number of neutral locales; may intimidate citizens
+Boxing Arena – collects $ dependent on Liked rating; may sell Beer
+Pawn Shop – collects $$; may provide Weapons
+”The Don” Pizzeria – increases the efficiency of all your locales; may intimidate citizens
+Bookmaker – collects && dependent on Liked rating; may increase efficiency dependent on the level of intimidation
+Pharmacy – sells Liquor for $$
+Weapons Store – sells Weapons for $; may intimidate citizens
+Loan Shark – pays interests to your $; may intimidate citizens
+
+Premises:
+Brewery – produces Beer; may Liked rating
+Safe House – lets plan robberies (fighting in return for resources); may intimidate citizens an increase the efficiency of other premises
+Hidden Storage – increases the capacities of Warehouses
+Smuggler – imports Beer, Liquor and Firearms; his efficiency may be increased
+Soup Kitchen – increases Liked rating among citizens
+Distillery – produces Liquor
+Accountant – exchanges $ for $$; his efficiency may be increased
+Counterfeiter – prints $ when Heat is low
+Wholesaler – sells Beer, Liquor and Firearms; may serve as a Warehouse
+Labor Union – collects $ dependent on Liked and Feared rating; may double (!) your efficiency
+
+Building Site:
+Flophouse – collects $$; may increase Liked rating
+Warehouse – increases the capacity of your storage facilities
+Insurance Company – collects $ dependent on the number of neutral premises; may increase efficiency dependent on the level of Fear
+Nightclub – sells Beer and Liquor for $$
+Clinic – quickens the medical therapy of your characters; may increase Liked rating
+Hotel – collects $$; may increase Liked rating
+Lawyer – lowers police efficiency; may lower the cost of bribes
+Casino – collects $; may sell Liquor

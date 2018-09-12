@@ -1,0 +1,19 @@
+# 73 - 3st Street and first
+
+# County Title
+title = c_third_str_first
+
+# Settlements
+max_settlements = 3
+b_third_str_first_01 = castle
+b_third_str_first_02 = city
+b_third_str_first_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

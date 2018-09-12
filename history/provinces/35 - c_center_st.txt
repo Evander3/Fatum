@@ -1,0 +1,19 @@
+# 35 - Center Street
+
+# County Title
+title = c_center_st
+
+# Settlements
+max_settlements = 3
+b_center_st_01 = castle
+b_center_st_02 = city
+b_center_st_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

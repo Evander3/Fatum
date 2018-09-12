@@ -1,0 +1,19 @@
+# 32 - Nolita South
+
+# County Title
+title = c_nolita_north
+
+# Settlements
+max_settlements = 3
+b_nolita_north_01 = castle
+b_nolita_north_02 = city
+b_nolita_north_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

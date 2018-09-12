@@ -1,0 +1,183 @@
+
+# REPUBLICS TITULAR KINGDOMS/DUCHIES
+
+k_genoa = {
+	color={ 234 131 110 }
+	capital = 233 # Genoa
+	culture = italian
+	
+	dignity = 200 # Never want the Republic of Genoa to change primary title
+	
+	allow = {
+		is_republic = yes
+	}
+}
+
+d_amalfi = {
+	color={ 140 200 230 }
+	capital = 935 # Amalfi
+	
+	dignity = 10
+	
+	allow = {
+		is_republic = yes
+	}
+}
+
+
+######################################
+# Historical Merchant Republic Palaces
+######################################
+
+# VENICE:
+b_dandolo = {
+	culture = italian
+	religion = catholic
+}
+b_contarini = {
+	culture = italian
+	religion = catholic
+}
+b_faliero = {
+	culture = italian
+	religion = catholic
+}
+b_morosini = {
+	culture = italian
+	religion = catholic
+}
+b_ziani = {
+	culture = italian
+	religion = catholic
+}
+b_candiano = {
+	culture = italian
+	religion = catholic
+}
+b_orsoleo = {
+	culture = italian
+	religion = catholic
+}
+b_participazio = {
+	culture = italian
+	religion = catholic
+}
+b_tribuno = {
+	culture = italian
+	religion = catholic
+}
+b_tradonico = {
+	culture = italian
+	religion = catholic
+}
+
+# GENOA:
+b_doria = {
+	culture = italian
+	religion = catholic
+}
+b_spinola = {
+	culture = italian
+	religion = catholic
+}
+b_grimaldi = {
+	culture = italian
+	religion = catholic
+}
+b_fieschi = {
+	culture = italian
+	religion = catholic
+}
+b_embriaco = {
+	culture = italian
+	religion = catholic
+}
+
+# PISA:
+b_dappiano = {
+	culture = italian
+	religion = catholic
+}
+b_della_gherardesca = {
+	culture = italian
+	religion = catholic
+}
+b_visconti = {
+	culture = italian
+	religion = catholic
+}
+b_alliata = {
+	culture = italian
+	religion = catholic
+}
+b_caetani = {
+	culture = italian
+	religion = catholic
+}
+
+# LÜBECK:
+b_bardewik = {
+	culture = german
+	religion = catholic
+}
+b_vorrade = {
+	culture = german
+	religion = catholic
+}
+b_warendorp = {
+	culture = german
+	religion = catholic
+}
+b_pat_luneburg = {
+	culture = german
+	religion = catholic
+}
+b_wittenborg = {
+	culture = german
+	religion = catholic
+}
+
+# GOTLAND:
+b_stenkyrka = {
+	culture = swedish
+	religion = catholic
+}
+b_guldsmed = {
+	culture = swedish
+	religion = catholic
+}
+b_hejnum = {
+	culture = swedish
+	religion = catholic
+}
+b_gildehusen = {
+	culture = swedish
+	religion = catholic
+}
+b_strabain = {
+	culture = swedish
+	religion = catholic
+}
+
+# AMALFI:
+b_konstantios = {
+	culture = greek
+	religion = catholic
+}
+b_mauro = {
+	culture = italian
+	religion = catholic
+}
+b_musco = {
+	culture = italian
+	religion = catholic
+}
+b_polkarios = {
+	culture = greek
+	religion = catholic
+}
+b_urso = {
+	culture = italian
+	religion = catholic
+}
+

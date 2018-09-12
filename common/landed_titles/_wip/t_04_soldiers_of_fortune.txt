@@ -1,0 +1,33 @@
+
+# SOLDIERS OF FORTUNE
+
+d_dummy_company = {
+	color = { 130 173 70 }
+	color2 = { 255 255 255 }
+	
+	capital = 1 # Battery park
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = sicilian
+			religion_group = yakuza
+		}
+	}
+	
+	religion = cosa_nostra # Parent Religion 
+	culture = italian
+	
+	mercenary = yes
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	landless = yes # Always exists
+	primary = yes # Cannot be held as a secondary title
+	independent = yes # Cannot be vassalized
+	
+	strength_growth_per_century = 1.00
+	
+	modifier = d_dummy_company_modifier
+}

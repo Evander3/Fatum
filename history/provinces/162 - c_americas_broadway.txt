@@ -1,0 +1,19 @@
+# 162 - Americas & Broadway
+
+# County Title
+title = c_americas_broadway
+
+# Settlements
+max_settlements = 3
+b_americas_broadway_01 = castle
+b_americas_broadway_02 = city
+b_americas_broadway_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

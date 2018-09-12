@@ -1,0 +1,19 @@
+# 6 - Staten Island Ferry
+
+# County Title
+title = c_staten_island_ferry
+
+# Settlements
+max_settlements = 3
+b_south_ferry = castle
+b_whitehall_st = city
+#b_state_street = city
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

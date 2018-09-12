@@ -1,0 +1,123 @@
+
+# BROOKLYN "EMPIRE"
+
+e_brooklyn = {
+	k_brooklyn_downtown = {
+		d_dumbo = {
+		}
+		d_brooklyn_heights = {
+		}
+		d_downtown_brooklyn = {
+		}
+		d_navy_yard = {
+		}
+		d_cobble_hill = {
+		}
+		d_boerum_hill = {
+		}
+		d_fort_greene = {
+		}
+		d_clinton_hill = {
+		}
+	}
+	k_red_hook = {
+		d_red_hook = {
+		}
+		d_carroll_gardens = {
+		}
+		d_gowanus = {
+		}
+	}
+	k_greenwood = {
+		d_sunset_park = {
+		}
+		d_greenwood_cemetery = {
+		}
+		# d_bay_ridge = {
+		# }
+		# d_fort_hamilton = {
+		# }
+		# d_dyker_heights = {
+		# }
+		# d_bath_beach = {
+		# }
+		# d_bensonhurst = {
+		# }
+		# d_borough_park = {
+		# }
+		# d_kensignton_parkville = {
+		# }
+	}
+	k_prospect_park = {
+		d_park_slope = {
+		}
+		d_prospect_heights = {
+		}
+		d_prospect_park = {
+		}
+		d_prospect_park_south = {
+		}
+		d_windsor_terrace = {
+		}
+	}
+	k_williamsburg = {
+		d_williamsburg = {
+		}
+		d_greenpoint = {
+		}
+		d_bushwick = {
+		}
+	}
+	k_bedford_stuyvesant = {
+		d_bedford_stuyvesant = {
+		}
+		d_crown_heights = {
+		}
+		d_lefferts_gardens = {
+		}
+		d_brownsville = {
+		}
+		# d_east_flatbush = {
+		# }
+		# d_flatbush = {
+		# }
+		# d_midwood = {
+		# }
+	}
+	k_east_brooklyn = {
+		d_cypress_hills = {
+		}
+		d_east_new_york = {
+		}
+		d_canarsie = {
+		}
+		# d_bergen_beach = {
+		# }
+		# d_mill_basin = {
+		# }
+		# d_flatlands = {
+		# }
+		# d_marine_park = {
+		# }
+		# d_gerritsen_beach = {
+		# }
+		# d_brooklyn_marine_park = {
+		# }
+		# d_barren_island = {
+		# }
+	}
+	# k_coney_brighton = {
+		# d_gravesend = {
+		# }
+		# d_sheepshead_bay = {
+		# }
+		# d_sea_gate = {
+		# }
+		# d_coney_island = {
+		# }
+		# d_brighton_beach = {
+		# }
+		# d_manhattan_beach = {
+		# }
+	# }
+}

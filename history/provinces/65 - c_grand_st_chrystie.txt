@@ -1,0 +1,19 @@
+# 65 - Grand Street and Chrystie
+
+# County Title
+title = c_grand_st_chrystie
+
+# Settlements
+max_settlements = 3
+b_grand_st_chrystie_01 = castle
+b_grand_st_chrystie_02 = city
+b_grand_st_chrystie_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

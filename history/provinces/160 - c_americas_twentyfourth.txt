@@ -1,0 +1,19 @@
+# 160 - Americas & 24th
+
+# County Title
+title = c_americas_twentyfourth
+
+# Settlements
+max_settlements = 3
+b_americas_twentyfourth_01 = castle
+b_americas_twentyfourth_02 = city
+b_americas_twentyfourth_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,321 @@
+# To add in fatum :
+
+		# d_liberty_national = {
+		# a titular duchy-level entity to represent a cartel owned gang based in the country club...
+		# }
+		
+# here is a list of the gangs from The Warriors movie :
+# The Alley Cats,
+# The Amsterdam All-Stars, #turf : Amsterdam (10th ave.) manhattan
+# The Baseball Furies, # riverside park, manhattan. muteguys also crazies but usually strong/athletic.
+			# # members predominantly Irish, Italian, Polish, German.
+			# # boss : Cobb (after Ty Cobb), warchief : thurman, members : BJ, Darien, Ryan, Zack
+# The Black Hands,
+# The Blackjacks,
+# The Big Trains,
+# The Boppers, # harlem, style over muscle
+			# # warlord Big Moe, warchief Tubbz, lieutenants Boxcar & Reggie
+			# # members : TJ, Greenback, Nate, Donovan, Sharla, Shandra
+			# # rivals The hurricanes (proximity), The warriors, the judas bench
+# The Boyle Avenue Runners, # astoria, queens (only known gang from queens ...)
+# The Charlemagnes,
+# The Colt 45's,
+# The Dealers, #as their name suggests they trade with every other gang flash, spray paint and knives
+			# # dunno how to represent them, maybe a head of religion ?:)
+# The Delaney Rovers,
+# The Destroyers # gang added for the rockstar The Warrior VG - turf coney island, enemy of the warriors, conquered  in 21 june 1979
+			# # eastern coney island, in a large warehouse
+			# # warlord : virgil (drunkard) warchief Cleon (until 1978), lieutenants L.C., Lemmy, Beansie
+			# # extra officers : Chase, Skooly, Devon
+			# # members : Gnat, Crusty, Bull, Maggot, Mainline, Vermin (Former), Swan (Former), Cowboy (Former)
+# The Dingos, # mostly homosexual guys, their scene was cutfrom the script
+# The E Street Shufflers,
+# The Easy Aces,
+# The Electric Eliminators, # turf SoHo, manhattan
+			# # allies : Saracens
+			# # rivals : Hi-Hats (proximity), The Lizzies
+			# # Attire: Yellow Satin Jacket (Lieutenants Have Dark Yellow Sleeves)
+			# # warlord : Tracer, Warchief Header
+			# # members: Beckman, Pelly, Charlton, Zidane
+# The Eighth Avenue Apaches, # turf in 8th Ave, Manhattan
+# The Fastballs,
+# The Fifth Street Bombers,
+# The Filmores,
+# The Firetasters,
+# The Five Points, # no info from the movie or vg but obviously we can guess a sicilian mafia gang
+			# # with a bar/warehouse turf in the five points, manhattan
+# The Gerrards, # possibly from Staten island so ... IDC
+# The Gladiators, # turf in Carnasie, Brooklyn
+# The Go Hards,
+# The Gun Hill Dancers,
+# The Gramercy Riffs, # gramercy, manhattan (huge stronghold)
+# The High Hats, #or Hi-Hats,
+			# # truf : in Soho, manhattan
+			# # Ethnicity: French American, Irish and Jewish American
+			# # Rival: Electric Eliminators (proximity), Warriors, Panzers, Moonrunners
+			# # Attire: Mime Face Paint, Black Top Hat and Red Long Sleeve Shirt with Black Stripes on the Sleeves (Lieutenant's Shirts are White Instead of Red)
+			# # Warlord: Chatterbox (Formerly), Crackerjack. Warchief : Crackerjack (formerly), Marcel
+			# # Lieutenants : Marcel (formerly)
+			# # Members : Desmond, Jude, Etienne, Jaques
+# The High Rollers,
+# The Homeboys,
+# The Hoplites,
+# The Howitzers, # turf in Bedford, brooklyn
+# The Huks,
+# The Hurricanes, # turf in Spanish Harlem
+			# # ethnicity hispanic
+			# # rivals : Boppers (proximity), warriors, panzers
+			# # Attire: Shirtless or Tucked In White Tank Top, Fedora (Lieutenants Have Blue Tucked In Long Sleeve Button Up Dress Shirts, Fedora With Wider Brim)
+			# # warlord : Vargas & Diego (co-warlords ) (tanistry ?) 
+			# # warchief sanchez (deceased, ex-lieutenant)
+			# # members : Rico, Eusebio, Alejandro, Rodrigo, Benicio
+# The Imps,
+# The Jesters,
+# The Jones Street Boys, # turf in Bensonhurst, brooklyn
+			# #rival : Saracens (proximity), warriors, baseball furies
+			# # Attire: Yellow & Black Stripe Shirt (Lieutenants Have White & Black Stripe Shirts)
+			# # Warlord : Knox
+			# # members : Harry, Pifer, Royal, Fleece, Boomstick
+# The Judas Bunch,
+# The Jupiters,
+# The Knockdowns,
+# The Knuckles,
+# The Lizzies, # turf in union square, manhattan, hang out in a bar
+			# # all-female mixed-race gang (higher chance oflesbians) (enactic elective succession ?) deceitful ftw
+			# # warlord : Starr
+			# # members : Sarah, Roxanna, Dana, Sheera, Hollie, Alice
+# The Locos, # turf in Woodbury
+			# # ethinicty : puerto-rican, irish
+			# # rivals : Huks, Rogues
+# The Magicians,
+# The Meatpackers, # not known but possibly from the meatpacking district, downtown manhattan ?
+# The Moonrunners, # turf in Pelham's trainyard, Bronx
+			# # rivals Van Cortlandt Rangers (proximity), warriors, hi-hats
+			# # Attire: Light Blue Jim Watkins Corvette Jacket (Lieutenants Have Red Jim Watkins Corvette Jackets)
+			# # warlord : Bullet, warchief Deke
+			# # members : Glenn, Cooper, Gus, Luna 51
+# The Napoleons, #people from French descent ?
+# The Nickel Steaks,
+# The Nightriders,
+# The Ninth Avenue Razors, # 9th Avenue, Manhattan
+# The Orphans, # losers gang, nothing to fear from them,almost. "They're so far down, they're not even on the map." Fow to Swan
+			# #Turf in Tremont Station, bronx. around 30 members, smallest gang in NY
+			# # warlord : Sully, warchief : Jesse (possibly)
+			# # members : Monk, Hutch, Pike, Bugs, McGee
+			# # Attire : Dirty Green T-shirts and Jeans
+# The Panzers, # turf Washington Heights, Manhattan
+			# # warlord :Jonah (young laurence fishburne lookalike) warchief : Isaac
+			# # members : Abe, C-Style, Keenan, Theo
+			# # Attire : Camouflage Jacket & Red Beret or Mosh Cap (Lieutenant's Have Black Leather Jackets)
+# The Phillies,
+# The Plainsmen,
+# The Punks, # turf Bowery, manhattan 
+			# # mute guys, high health and resistance, very good brawlers, one of the heaviest gang
+			# # attire : overalls and rugby shirts (warlord has rollerskates)
+			# # allies : Satan's mothers, Lizzies
+			# # rivals warriors, baseball furies
+			# # warlord : Vance, warchief : Ed
+			# # members : Hog, Hornet, Maurice, Lumpy
+# The Queen's Bridge Mutilators,
+# The Real Boys,
+# The Red Hook Shooters,
+# The Roadmasters,
+# The Rogues, # turf in Hell's Kitchen, manhattan, crazy nutjobs
+			# # warlord : Luther (possibly deceased), warchief Cropsy (possibly deceased)
+			# # members (possibly deceased) : Johnny, Dee Dee, Tommy, Joey, Patches
+			# # rivals : Gramercy Riffs (proximity), Baseball Furies, Warriors (after 1979 basically everybody)
+			# # attire : Leather vests, black jeans and caps
+# The Romans, # italian descent, imperialitic ways (primogeniture agnatic ?) ?
+# The Runaways,
+# The Saracens, # turf in Bensonhurst, brooklyn
+			# # Allies : Warriors, Gramercy Riffs, electric eliminators
+			# # rival Jones Street Boys (proximity)
+			# # Attire: Black tank tops with white outlines and black pants
+			# # warlord : Edge, warchief : Mouse
+			# # members : snakefingers, arson, petey, big jer
+# The Saratogas,
+# The Satans Mothers # white-only motorcycle club gang from Sheepshead Bay in Brooklyn, one of the heaviest gang
+			# # Allies : punks
+			# # rivals : warriors, destroyers, savage huns
+			# # attire :black motorcycle vests
+			# # warlord : Spider & Tiny (tanistry ?)
+			# # members : Goober, Kevin K, Spice, Ted
+# The Savage Huns, # chinatown, manhattan
+			# # rivals : warriors, satan's mothers
+			# # attire : greenshirts and brown pointy hats
+			# # warlord : ghost, lieutenants : Jimmy Lo, tam-tam, Lingo
+			# # members : Blood Lotus, Shadow Blade, Iron Knee, Crimson Fist
+# The Shanghai Sultans,
+# The Southern Cross,
+# The Speedwagons,
+# The Stevedores,
+# The Stilletos,
+# The Stonebreakers,
+# The Terriers,
+# The Turks,
+# The Turnbull AC's, # turf in gunhill and pelham, bronx
+			# # mixed-race bald-only "classic" crew gang
+			# # rivals : warriors
+			# # attire : Jeans, Denim Jackets, Black Leather Vests, Shades and Bandanas
+			# # warlord : birdie (infirm, formerly), Trash (formerly warchief)
+			# # members : Sid, Nails, Hammer, Smash, Axel, Skid
+# The Van Cortlandt Rangers, # turf in Van Cortlandt Park, Brooklyn (out of the map)
+			# # warlord : Pharaoh, warchief : Lucifer, lieutenant : Jonah
+			# # members : Herod, Goliath, Caine
+# The Warriors, # coney island, brooklyn, 120 members + afiliates, turf : abandoned warehouse, formed 16 april 1978
+			# # boss : Cleon (died at Cyrus meeting) then Swan (warchief),
+			# # members : Ajax, Cochise, Cowboy, Fox (scout), Rembrandt (graffer), Snow and Vermin
+			# # new bloods : Ash (Deceased), Jones, Malcolm, Lynx, Rhino, Cody, Royce, Ace, West, Terrance
+# The Whispers,
+# The Wizards, # gang from the movie but the turf is unknown
+# The Xenophones,
+# The Xylophones,
+# The Yo-Yo’s,
+# The Youngbloods,
+# The Zodiacs,
+# The Zulus.
+
+
+# TITULAR DUCHIES
+
+d_dummy_titular_duchy = {
+	color={ 255 108 0 }
+	color2={ 255 255 255 } # NR
+	
+	capital = 1 # NR
+	culture = italian # NR
+	dignity = 10 # NR
+	
+	allow = { # NR
+		always = no # Only created through special event
+	}
+}
+
+d_dummy_tribe = {
+	color={ 255 108 0 }
+	color2={ 255 255 255 } # NR
+	
+	tribe = yes # Tribe title, lost as soon as a dejure duchy title is earned
+	capital = 1
+	culture = italian
+	dignity = 10 # NR
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+	
+	allow = { # NR
+		always = no # Only created through special event
+	}
+}
+
+# TITULAR KINGDOMS
+
+d_dummy_titular_kingdom = {
+	color={ 255 108 0 }
+	color2={ 255 255 255 } # NR
+	
+	culture = italian # NR
+	capital = 1 # NR
+	dignity = 10 # NR
+	dynasty_title_names = no # NR - Will not be named "Seljuk", etc.
+	title = "BOSS" # NR
+	title_female = "MISTRESS" # NR
+	
+	allow = { # NR
+		always = no # Only created through special event
+		OR = {
+			religion = cosa_nostra
+			is_heresy_of = cosa_nostra
+			religion_group = sicilian
+		}
+		is_republic = yes
+	}
+}
+
+k_dummy_tribe = {
+	color={ 187 70 70 }
+	color2={ 255 255 255 } # NR
+	
+	tribe = yes
+	capital = 1
+	culture = italian
+	dignity = 10 # NR
+	landless = yes # NR - always exists
+	title = "HIGH_CHIEF" # NR
+	foa = "HIGH_CHIEF_FOA" # NR
+	title_prefix = "TRIBE_OF" # NR
+	
+	allow = { # NR
+		always = no # Only created through special event
+	}
+}
+
+# TITULAR EMPIRES
+
+e_dummy_titular_empire = {
+	color = { 150 105 56 }
+	color2={ 255 255 255 } # NR
+	
+	capital = 1
+	
+	short_name = yes # NR
+	
+	allow = {
+		always = no # Only created through special event
+	}
+}
+
+e_dummy_tribe = {
+	color = { 255 127 0 }
+	color2={ 255 255 255 } # NR
+	
+	short_name = yes
+	
+#	capital = 1 # NR
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = nahuatl
+	religion = aztec
+}
+
+# HERESY CONTROLER
+
+d_dummy_heresy = {
+	color={ 217 155 177 }
+	color2={ 220 220 0 }
+	
+	capital = 1
+	creation_requires_capital = no # NR
+	dignity = 80 # NR
+	title = "HERETIC_GODFATHER"
+	title_female = "HERETIC_MISTRESS"
+	foa = "HERETIC_GODFATHER_FOA"
+	location_ruler_title = yes # ?? NR
+	short_name = yes
+	
+	allow = {
+		always = no # Only by special decision
+	}
+	
+	landless = yes # Always exists
+	controls_religion = miaphysite # Controls a religion
+	religion = miaphysite
+	primary = yes # Cannot be held as a secondary title
+	dynasty_title_names = no # Will not be named "Seljuk", etc.
+	caliphate = yes # For muslims
+	coat_of_arms = {
+		data = { 0 0 3 0 0 11 11 }
+		religion=yazidi
+	}
+	
+	# Regnal names
+	male_names = {
+		Abraham Alexandros Alexios Agatho Anastasios Andronikos Athanasios Benjamin Christodolos Cosmas Kyril Damian 
+		Demetrius Dioscorus Gabriel Yohannes Iosephos Isaakios Iakobos Makarios Markianos Markos Matheos Khail Mina 
+		Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
+	}
+}

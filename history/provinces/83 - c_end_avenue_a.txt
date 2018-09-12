@@ -1,0 +1,19 @@
+# 83 - End-of-Avenue A
+
+# County Title
+title = c_end_avenue_a
+
+# Settlements
+max_settlements = 3
+b_end_avenue_a_01 = castle
+b_end_avenue_a_02 = city
+b_end_avenue_a_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

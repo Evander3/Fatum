@@ -1,0 +1,19 @@
+# 13 - Hudson Terminal
+
+# County Title
+title = c_hudson_terminal
+
+# Settlements
+max_settlements = 3
+b_fulton_st = castle
+b_liberty_st = city
+#b_greenwich_st = castle
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,19 @@
+# 22 - Pier 40
+
+# County Title
+title = c_pier_forty
+
+# Settlements
+max_settlements = 3
+b_pier_forty_01 = castle
+b_pier_forty_02 = city
+b_pier_forty_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

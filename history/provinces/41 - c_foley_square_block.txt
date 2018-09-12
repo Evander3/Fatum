@@ -1,0 +1,20 @@
+# 41 - Foley square block
+# http://en.wikipedia.org/wiki/Civic_Center,_Manhattan
+
+# County Title
+title = c_foley_square_block
+
+# Settlements
+max_settlements = 3
+b_foley_square_block_01 = castle
+b_foley_square_block_02 = city
+b_foley_square_block_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

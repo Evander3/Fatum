@@ -1,0 +1,19 @@
+# 122 - Madison & 29th
+
+# County Title
+title = c_madison_twenty_ninth
+
+# Settlements
+max_settlements = 3
+b_madison_twenty_ninth_01 = castle
+b_madison_twenty_ninth_02 = city
+b_madison_twenty_ninth_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

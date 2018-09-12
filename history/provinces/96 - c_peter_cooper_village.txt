@@ -1,0 +1,19 @@
+# 96 - Peter Cooper Village
+
+# County Title
+title = c_peter_cooper_village
+
+# Settlements
+max_settlements = 3
+b_peter_cooper_village_01 = castle
+b_peter_cooper_village_02 = city
+b_peter_cooper_village_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

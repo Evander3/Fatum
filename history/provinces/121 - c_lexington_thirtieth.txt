@@ -1,0 +1,19 @@
+# 121 - Lexington & 30th
+
+# County Title
+title = c_lexington_thirtieth
+
+# Settlements
+max_settlements = 3
+b_lexington_thirtieth_01 = castle
+b_lexington_thirtieth_02 = city
+b_lexington_thirtieth_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

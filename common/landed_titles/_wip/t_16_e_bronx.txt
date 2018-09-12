@@ -1,0 +1,143 @@
+
+# BRONX "EMPIRE"
+
+e_bronx = {
+	k_community_district_01 = {
+		d_port_morris = {
+		}
+		d_mott_haven = {
+		}
+		d_melrose = {
+		}
+	}
+	k_community_district_02 = {
+		d_longwood = {
+		}
+		d_hunts_points = {
+		}
+	}
+	k_community_district_03 = {
+		d_claremont_village = {
+		}
+		d_morrisania = {
+		}
+		d_crotona_park = {
+		}
+	}
+	k_community_district_04 = {
+		d_concourse = {
+		}
+		d_concourse_village = {
+		}
+		d_mount_eden = {
+		}
+		d_high_bridge = {
+		}
+	}
+	k_community_district_05 = {
+		d_morris_heights = {
+		}
+		d_mount_hope = {
+		}
+		d_fordham = {
+		}
+		d_university_heights = {
+		}
+	}
+	k_community_district_06 = {
+		d_belmont = {
+		}
+		d_east_tremont = {
+		}
+		d_bronx_zoo = {
+		}
+		d_botanical_garden = {
+		}
+	}
+	k_community_district_07 = {
+		d_bedford_park = {
+		}
+		d_norwood = {
+		}
+		d_kingsbridge = {
+		}
+	}
+	# k_community_district_08 = {
+		# d_spuyten_duyvil = {
+		# }
+		# d_riverdale = {
+		# }
+		# d_fieldston = {
+		# }
+		# d_north_rivendale = {
+		# }
+		# d_van_cortland_park = {
+		# }
+	# }
+	k_community_district_09 = {
+		d_soundview = {
+		}
+		d_soundview_park = {
+		}
+		d_clason_point = {
+		}
+		d_castle_hill = {
+		}
+		d_west_farms = {
+		}
+		d_parkchester = {
+		}
+		d_unionport = {
+		}
+	}
+	k_community_district_10 = {
+		d_ferry_point_park = {
+		}
+		# d_throgs_neck = {
+		# }
+		# d_edgewater_park = {
+		# }
+		d_schuylerville = {
+		}
+		d_country_club = {
+		}
+		d_co_op_city = {
+		}
+		d_pelham_bay = {
+		}
+		d_westchester_square = {
+		}
+		d_pelham_bay_park = {
+		}
+		# d_city_island = {
+		# }
+	}
+	k_community_district_11 = {
+		d_van_nest = {
+		}
+		d_morris_park = {
+		}
+		d_pelham_parkway = {
+		}
+		d_pelham_gardens = {
+		}
+	}
+	# k_community_district_12 = {
+		# d_linville = {
+		# }
+		# d_williamsbridge = {
+		# }
+		# d_woodlawn = {
+		# }
+		# d_woodlawn_cemetery = {
+		# }
+		# d_wakefield = {
+		# }
+		# d_eastchester = {
+		# }
+		# d_edenwald = {
+		# }
+		# d_baychester = {
+		# }
+	# }
+}

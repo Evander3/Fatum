@@ -1,0 +1,19 @@
+# 111 - West 12th Street & 5th
+
+# County Title
+title = c_w_twelfth_str_fifth
+
+# Settlements
+max_settlements = 3
+b_w_twelfth_str_fifth_01 = castle
+b_w_twelfth_str_fifth_02 = city
+b_w_twelfth_str_fifth_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

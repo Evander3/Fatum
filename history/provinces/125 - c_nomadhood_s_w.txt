@@ -1,0 +1,19 @@
+# 125 - Nomad south west
+
+# County Title
+title = c_nomadhood_s_w
+
+# Settlements
+max_settlements = 3
+b_nomadhood_s_w_01 = castle
+b_nomadhood_s_w_02 = city
+b_nomadhood_s_w_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

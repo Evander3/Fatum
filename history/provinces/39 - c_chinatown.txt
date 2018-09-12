@@ -1,0 +1,19 @@
+# 39 - Chinatown
+
+# County Title
+title = c_chinatown
+
+# Settlements
+max_settlements = 3
+b_chinatown_01 = castle
+b_chinatown_02 = city
+b_chinatown_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

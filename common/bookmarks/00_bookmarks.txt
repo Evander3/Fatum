@@ -1,0 +1,87 @@
+bookmark = {
+	name = "BM_"
+	desc = "BM_BIG_APPLE_DESC"
+	date = 1767.3.20
+	
+	# character = 2000001 # Johnny Corleone
+}
+
+bookmark = {
+	name = "BM_BIG_APPLE"
+	desc = "BM_BIG_APPLE_DESC"
+	date = 1850.1.2
+	
+	character = 2000001 # Johnny Corleone
+}
+
+# bookmark = {
+	# name = "BM_THE_OLD_GODS"
+	# desc = "BM_THE_OLD_GODS_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_FATE_OF_ENGLAND"
+	# desc = "BM_FATE_OF_ENGLAND_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_NORMAN_CONQUEST"
+	# desc = "BM_NORMAN_CONQUEST_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_KOMNENOS_DYNASTY"
+	# desc = "BM_KOMNENOS_DYNASTY_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_THIRD_CRUSADE"
+	# desc = "BM_THIRD_CRUSADE_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_THE_LATIN_EMPIRE"
+	# desc = "BM_THE_LATIN_EMPIRE_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_THE_MONGOLS"
+	# desc = "BM_THE_MONGOLS_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_RISE_OF_THE_HANSA"
+	# desc = "BM_RISE_OF_THE_HANSA_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }
+
+# bookmark = {
+	# name = "BM_100_YEARS_WAR"
+	# desc = "BM_100_YEARS_WAR_DESC"
+	# date = 1846.1.2
+	
+	# character = 2000001 # Johnny Corleone
+# }

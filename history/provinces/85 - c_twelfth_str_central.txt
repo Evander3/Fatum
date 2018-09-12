@@ -1,0 +1,19 @@
+# 85 - 12th street central
+
+# County Title
+title = c_twelfth_str_central
+
+# Settlements
+max_settlements = 3
+b_twelfth_str_central_01 = castle
+b_twelfth_str_central_02 = city
+b_twelfth_str_central_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

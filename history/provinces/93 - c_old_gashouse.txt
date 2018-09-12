@@ -1,0 +1,19 @@
+# 93 - Old Gashouse
+
+# County Title
+title = c_old_gashouse
+
+# Settlements
+max_settlements = 3
+b_old_gashouse_01 = castle
+b_old_gashouse_02 = city
+b_old_gashouse_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

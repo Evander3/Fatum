@@ -1,0 +1,19 @@
+# 11 - John & Ann streets
+
+# County Title
+title = c_john_ann_st
+
+# Settlements
+max_settlements = 3
+b_john_ann_st_01 = castle
+b_john_ann_st_02 = city
+b_john_ann_st_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

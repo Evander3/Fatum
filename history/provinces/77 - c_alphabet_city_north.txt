@@ -1,0 +1,19 @@
+# 77 - Alphabet City North
+
+# County Title
+title = c_alphabet_city_north
+
+# Settlements
+max_settlements = 3
+b_alphabet_city_north_01 = castle
+b_alphabet_city_north_02 = city
+b_alphabet_city_north_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

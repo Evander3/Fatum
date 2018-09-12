@@ -1,0 +1,19 @@
+# 105 - Greenwich & West 12th Street
+
+# County Title
+title = c_greenwich_w_twelfth_str
+
+# Settlements
+max_settlements = 3
+b_greenwich_w_twelfth_str_01 = castle
+b_greenwich_w_twelfth_str_02 = city
+b_greenwich_w_twelfth_str_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

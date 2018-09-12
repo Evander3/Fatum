@@ -1,0 +1,19 @@
+# 74 - 6th & Avenue B
+
+# County Title
+title = c_sixth_avenue_b
+
+# Settlements
+max_settlements = 3
+b_sixth_avenue_b_01 = castle
+b_sixth_avenue_b_02 = city
+b_sixth_avenue_b_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

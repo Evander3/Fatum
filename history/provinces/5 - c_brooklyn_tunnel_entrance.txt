@@ -1,0 +1,19 @@
+# 5 - Brooklyn Tunnel Entrance
+
+# County Title
+title = c_brooklyn_tunnel_entrance
+
+# Settlements
+max_settlements = 3
+b_washington_st = castle
+b_trinity_place = city
+#b_rector_st = castle
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

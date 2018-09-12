@@ -1,0 +1,19 @@
+# 49 - South Street Viaduct
+
+# County Title
+title = c_south_street_viaduct
+
+# Settlements
+max_settlements = 3
+b_south_street_viaduct_01 = castle
+b_south_street_viaduct_02 = city
+b_south_street_viaduct_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,19 @@
+# 107 - Bleecker & Macdougal
+
+# County Title
+title = c_bleecker_macdougal
+
+# Settlements
+max_settlements = 3
+b_bleecker_macdougal_01 = castle
+b_bleecker_macdougal_02 = city
+b_bleecker_macdougal_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

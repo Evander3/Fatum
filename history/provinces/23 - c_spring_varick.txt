@@ -1,0 +1,19 @@
+# 23 - Spring and Varick street
+
+# County Title
+title = c_spring_varick
+
+# Settlements
+max_settlements = 3
+b_spring_varick_01 = castle
+b_spring_varick_02 = city
+b_spring_varick_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

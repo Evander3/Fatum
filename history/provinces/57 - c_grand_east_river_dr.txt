@@ -1,0 +1,19 @@
+# 57 - Grand and East River Drive
+
+# County Title
+title = c_grand_east_river_dr
+
+# Settlements
+max_settlements = 3
+b_grand_east_river_dr_01 = castle
+b_grand_east_river_dr_02 = city
+b_grand_east_river_dr_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

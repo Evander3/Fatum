@@ -1,0 +1,19 @@
+# 97 - Bethune Street
+
+# County Title
+title = c_bethune_street
+
+# Settlements
+max_settlements = 3
+b_bethune_street_01 = castle
+b_bethune_street_02 = city
+b_bethune_street_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,66 @@
+# Geographical regions
+# Regions can be declared with one or more of the following fields:
+#	duchies = { }, takes duchy title names declared in landed_titles.txt
+#	counties = { }, takes county title names declared in landed_titles.txt
+#	provinces = { }, takes province id numbers declared in /history/provinces
+#	regions = { }, a region can also include other regions, however the subregions needs to be declared before the parent region. 
+#		E.g. If the region world_europe contains the region world_europe_west then world_europe_west needs to be declared as a region before (i.e. higher up in this file) world_europe.
+
+###########################################################################
+# World Regions
+#	These groups are mutually exclusive on the same tier
+###########################################################################
+
+world_lower_downtown = {
+	duchies = {
+		d_battery_park_city
+		d_financial_district
+		d_civic_center
+		d_two_bridges
+		d_chinatown
+		d_little_italy
+	}
+}
+world_east_downtown = {
+	duchies = {
+		d_bowery
+		d_lower_east_side
+		d_alphabet_city
+		d_east_village
+		d_noho
+	}
+}
+world_west_downtown = {
+	duchies = {
+		d_tribeca
+		d_soho
+		d_greenwich_the_village
+		d_west_village
+		d_meat_packing_district
+	}
+}
+world_downtown = {
+	regions = {
+		world_lower_downtown
+		world_east_downtown
+		world_west_downtown
+	}
+}
+
+world_east_midtwon = {
+	duchies = {
+		d_rose_hill
+		d_stuyvesant_town
+	}
+}
+world_west_midtwon = {
+	duchies = {
+		d_gramercy
+	}
+}
+world_midtwon = {
+	regions = {
+		world_east_midtwon
+		world_west_midtwon
+	}
+}

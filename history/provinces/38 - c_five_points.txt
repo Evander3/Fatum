@@ -1,0 +1,19 @@
+# 38 - Five Points
+
+# County Title
+title = c_five_points
+
+# Settlements
+max_settlements = 3
+b_five_points_01 = castle
+b_five_points_02 = city
+b_five_points_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

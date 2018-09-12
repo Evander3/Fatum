@@ -1,0 +1,19 @@
+# 87 - Lafayette & Broadway
+
+# County Title
+title = c_lafayette_broadway
+
+# Settlements
+max_settlements = 3
+b_lafayette_broadway_01 = castle
+b_lafayette_broadway_02 = city
+b_lafayette_broadway_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

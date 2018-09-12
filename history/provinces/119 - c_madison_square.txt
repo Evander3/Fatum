@@ -1,0 +1,19 @@
+# 119 - Madison Square Area
+
+# County Title
+title = c_madison_square
+
+# Settlements
+max_settlements = 3
+b_madison_square_01 = castle
+b_madison_square_02 = city
+b_madison_square_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

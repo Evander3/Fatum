@@ -1,0 +1,25 @@
+# 7 - Hanover Square
+# For much of the 18th century, Hanover Square was the center of 
+# New York's printing trade and retail business. Local shops sold 
+# imported books, clothing, glassware, hardware, and furniture, as 
+# well as wine, tobacco, and tea. The Bank of New York moved its 
+# headquarters to the square in 1787.
+# http://www.nycgovparks.org/parks/britishmemorialgarden
+
+# County Title
+title = c_hanover_square
+
+# Settlements
+max_settlements = 3
+b_stone_st = castle
+b_hanover_square = city
+b_broad_street = city
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

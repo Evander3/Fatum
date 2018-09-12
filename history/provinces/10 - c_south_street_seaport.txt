@@ -1,0 +1,19 @@
+# 10 - South Street Seaport
+
+# County Title
+title = c_south_street_seaport
+
+# Settlements
+max_settlements = 3
+b_south_street_seaport_01 = castle
+b_south_street_seaport_02 = city
+b_south_street_seaport_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

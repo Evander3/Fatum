@@ -1,0 +1,19 @@
+# 100 - Bedford Street & 7th Avenue South
+
+# County Title
+title = c_bedford_seventh_s
+
+# Settlements
+max_settlements = 3
+b_bedford_seventh_s_01 = castle
+b_bedford_seventh_s_02 = city
+b_bedford_seventh_s_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

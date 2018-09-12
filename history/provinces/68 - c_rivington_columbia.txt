@@ -1,0 +1,19 @@
+# 68 - Rivington and Columbia
+
+# County Title
+title = c_rivington_columbia
+
+# Settlements
+max_settlements = 3
+b_rivington_columbia_01 = castle
+b_rivington_columbia_02 = city
+b_rivington_columbia_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

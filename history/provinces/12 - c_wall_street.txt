@@ -1,0 +1,19 @@
+# 12 - Wall Street
+
+# County Title
+title = c_wall_street
+
+# Settlements
+max_settlements = 3
+b_broad_st = castle
+b_trinity_church = temple
+b_wall_street = city
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

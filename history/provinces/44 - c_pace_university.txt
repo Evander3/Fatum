@@ -1,0 +1,19 @@
+# 44 - Pace University
+
+# County Title
+title = c_pace_university
+
+# Settlements
+max_settlements = 3
+b_pace_university_01 = castle
+b_pace_university_02 = city
+b_pace_university_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

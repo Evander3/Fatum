@@ -1,0 +1,19 @@
+# 62 - Willett and Grand Street
+
+# County Title
+title = c_willett_grand
+
+# Settlements
+max_settlements = 3
+b_willett_grand_01 = castle
+b_willett_grand_02 = city
+b_willett_grand_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

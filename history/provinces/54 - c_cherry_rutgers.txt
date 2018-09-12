@@ -1,0 +1,19 @@
+# 54 - Cherry and Rutgers streets
+
+# County Title
+title = c_cherry_rutgers
+
+# Settlements
+max_settlements = 3
+b_cherry_rutgers_01 = castle
+b_cherry_rutgers_02 = city
+b_cherry_rutgers_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

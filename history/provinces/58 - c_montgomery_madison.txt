@@ -1,0 +1,19 @@
+# 58 - Montgomery and Madison streets
+
+# County Title
+title = c_montgomery_madison
+
+# Settlements
+max_settlements = 3
+b_montgomery_madison_01 = castle
+b_montgomery_madison_02 = city
+b_montgomery_madison_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

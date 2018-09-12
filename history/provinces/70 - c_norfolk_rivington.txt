@@ -1,0 +1,19 @@
+# 70 - Norfolk and Rivington
+
+# County Title
+title = c_norfolk_rivington
+
+# Settlements
+max_settlements = 3
+b_norfolk_rivington_01 = castle
+b_norfolk_rivington_02 = city
+b_norfolk_rivington_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

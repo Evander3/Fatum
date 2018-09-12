@@ -1,0 +1,19 @@
+# 91 - Old Dry Docks
+
+# County Title
+title = c_old_dry_docks
+
+# Settlements
+max_settlements = 3
+b_old_dry_docks_01 = castle
+b_old_dry_docks_02 = city
+b_old_dry_docks_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

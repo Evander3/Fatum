@@ -1,0 +1,19 @@
+# 117 - Gramercy Park Area
+
+# County Title
+title = c_gramercy_park
+
+# Settlements
+max_settlements = 3
+b_gramercy_park_01 = castle
+b_gramercy_park_02 = city
+b_gramercy_park_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,19 @@
+# 1 - Battery Park
+
+# County Title
+title = c_battery_park
+
+# Settlements
+max_settlements = 3
+b_battery_park = castle
+b_castle_clinton = city
+#b_battery_park_authority = castle
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

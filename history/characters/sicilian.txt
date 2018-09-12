@@ -1,0 +1,22 @@
+
+# a lil' try out to test the data :
+
+2000001 = {
+	name="Johnny"
+	dynasty=2000001
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="cosa_nostra"
+	culture="sicilian"
+	trait="gluttonous"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	1825.1.2={
+		birth="1825.1.2"
+	}
+	1878.1.2={
+		death="1878.1.2"
+	}
+}

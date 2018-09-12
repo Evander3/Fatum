@@ -1,0 +1,19 @@
+# 84 - Cooper Square
+
+# County Title
+title = c_cooper_square
+
+# Settlements
+max_settlements = 3
+b_cooper_square_01 = castle
+b_cooper_square_02 = city
+b_cooper_square_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

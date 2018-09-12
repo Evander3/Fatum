@@ -1,0 +1,19 @@
+# 99 - Leroy & Greenwich
+
+# County Title
+title = c_leroy_greenwich
+
+# Settlements
+max_settlements = 3
+b_leroy_greenwich_01 = castle
+b_leroy_greenwich_02 = city
+b_leroy_greenwich_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

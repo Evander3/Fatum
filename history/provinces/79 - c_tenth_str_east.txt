@@ -1,0 +1,19 @@
+# 79 - 10th Street East
+
+# County Title
+title = c_tenth_str_east
+
+# Settlements
+max_settlements = 3
+b_tenth_str_east_01 = castle
+b_tenth_str_east_02 = city
+b_tenth_str_east_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

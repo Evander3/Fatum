@@ -1,0 +1,19 @@
+# 196 - West 14th Street & 9th Avenue
+
+# County Title
+title = c_w_fourteenth_str_ninth_ave
+
+# Settlements
+max_settlements = 3
+b_w_fourteenth_str_ninth_ave_01 = castle
+b_w_fourteenth_str_ninth_ave_02 = city
+b_w_fourteenth_str_ninth_ave_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

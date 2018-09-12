@@ -1,0 +1,15 @@
+start_date = 1767.1.2 # first interesting map or 1846 because it's the gangs of new york era
+last_start_date = 2034.1.1 # fatum (comics) era
+end_date = 2200.1.1 # because why not
+
+character = {
+}
+
+diplomacy = {
+}
+
+economy = {
+}
+
+military = {
+}

@@ -1,0 +1,19 @@
+# 102 - Christopher & Hudson street
+
+# County Title
+title = c_christopher_hudson
+
+# Settlements
+max_settlements = 3
+b_christopher_hudson_01 = castle
+b_christopher_hudson_02 = city
+b_christopher_hudson_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

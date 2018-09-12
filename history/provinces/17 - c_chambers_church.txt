@@ -1,0 +1,19 @@
+# 17 - Chambers and Church streets
+
+# County Title
+title = c_chambers_church
+
+# Settlements
+max_settlements = 3
+b_chambers_church_01 = castle
+b_chambers_church_02 = city
+b_chambers_church_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

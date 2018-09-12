@@ -1,0 +1,19 @@
+# 4 - North End Avenue
+
+# County Title
+title = c_north_end_ave
+
+# Settlements
+max_settlements = 3
+b_murray_st = castle
+b_vesey_st = city
+#b_rockfeller_park = castle
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}# No previous file for PROV4

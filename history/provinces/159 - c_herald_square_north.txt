@@ -1,0 +1,19 @@
+# 159 - Herald Square North
+
+# County Title
+title = c_herald_square_north
+
+# Settlements
+max_settlements = 3
+b_herald_square_north_01 = castle
+b_herald_square_north_02 = city
+b_herald_square_north_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

@@ -1,0 +1,19 @@
+# 80 - 12th & Avenue B
+
+# County Title
+title = c_twelfth_avenue_b
+
+# Settlements
+max_settlements = 3
+b_twelfth_avenue_b_01 = castle
+b_twelfth_avenue_b_02 = city
+b_twelfth_avenue_b_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

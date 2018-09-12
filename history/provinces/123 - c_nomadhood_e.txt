@@ -1,0 +1,19 @@
+# 123 - Nomad east
+
+# County Title
+title = c_nomadhood_e
+
+# Settlements
+max_settlements = 3
+b_nomadhood_e_01 = castle
+b_nomadhood_e_02 = city
+b_nomadhood_e_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

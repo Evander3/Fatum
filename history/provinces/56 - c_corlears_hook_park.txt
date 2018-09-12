@@ -1,0 +1,19 @@
+# 56 - Corlears Hook Park
+
+# County Title
+title = c_corlears_hook_park
+
+# Settlements
+max_settlements = 3
+b_corlears_hook_park_01 = castle
+b_corlears_hook_park_02 = city
+b_corlears_hook_park_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

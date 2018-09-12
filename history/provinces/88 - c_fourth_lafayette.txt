@@ -1,0 +1,19 @@
+# 88 - 4th & Lafayette
+
+# County Title
+title = c_fourth_lafayette
+
+# Settlements
+max_settlements = 3
+b_fourth_lafayette_01 = castle
+b_fourth_lafayette_02 = city
+b_fourth_lafayette_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

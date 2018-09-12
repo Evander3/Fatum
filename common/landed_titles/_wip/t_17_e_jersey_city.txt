@@ -1,0 +1,173 @@
+
+# NEW JERSEY "EMPIRE"
+
+e_jersey_city = {
+	k_bergen_lafayette = {
+		d_beacon = {
+		}
+		d_bergen = {
+		}
+		d_bergen_hill = {
+		}
+		d_claremont_salem = {
+		}
+		d_communipaw = {
+		}
+		d_the_junction = {
+		}
+	}
+	k_jersey_downtown = {
+		d_boyle_plaza = {
+		}
+		d_exchange_place = {
+		}
+		d_grove_street = {
+		}
+		d_hamilton_park = {
+		}
+		d_harismus_cove = {
+		}
+		d_liberty_harbor = {
+		}
+		d_pavonia_newport = {
+		}
+		d_paulus_hook = {
+		}
+		d_van_vorst_park = {
+		}
+		d_the_village = {
+		}
+		d_waldo_powerhouse = {
+		}
+	}
+	k_greenville = {
+		d_canal_crossing = {
+		}
+		d_country_village = {
+		}
+		d_curries_woods = {
+		}
+		d_mlk_drive = {
+		}
+	}
+	k_the_heights = {
+		d_central_avenue = {
+		}
+		d_palisade_avenue = {
+		}
+		d_transfer_station = {
+		}
+		d_western_slope = {
+		}
+	}
+	k_journal_square = {
+		d_west_end = {
+			c_bergen_square = {
+			}
+		}
+		d_five_corners = {
+		}
+		d_hilltop = {
+		}
+		d_india_square = {
+		}
+		d_marion = {
+		}
+		d_mcginley_square = {
+		}
+	}
+	k_meadowlands = {
+		d_croxton = {
+		}
+		d_riverbend = {
+		}
+	}
+	k_upper_ny_bay = {
+		d_liberty_state_park = {
+		}
+		d_port_liberte = {
+		}
+		# d_port_jersey = {
+		# }
+		d_greenville_yards = {
+		}
+	}
+	k_west_side = {
+		d_droyers_point = {
+		}
+		d_hackensack_front = {
+		}
+		d_lincoln_park = {
+		}
+		d_njc_university = {
+		}
+		d_west_bergen = {
+		}
+	}
+}
+	# k_bayonne = {
+	# }
+	k_hoboken = {
+		d_harborside = {
+		}
+		d_west_side_hoboken = {
+		}
+		d_midtown_hoboken = {
+		}
+		d_lower_hoboken = {
+		}
+	}
+	k_union_city = {
+		d_downtown_union_city = {
+		}
+		d_west_hoboken = {
+		}
+		d_union_hill = {
+		}
+	}
+	k_weehawken = {
+		d_hackensack_road = {
+		}
+		d_jfk_boulevard = {
+		}
+	}
+	k_west_ny = {
+		d_guttenberg = {
+		}
+		d_port_imperial = {
+		}
+		d_bergenline_avenue_wny = {
+		}
+		d_central_wny = {
+		}
+	}
+	k_north_bergen = {
+	# bergenline
+	# bigleys / three ditches
+	# palisades plateau
+	# bergen turnpike
+	# babbitt
+	# woodcliff
+		d_hudson_country_park = {
+		}
+		d_bulls_ferry = {
+		# the harbor between guttenberg and the park
+		}
+		d_nungessers = {
+		# up the park
+		}
+		d_bergenwood = {
+		}
+		d_new_durham = {
+			c_three_pigeons = {
+			}
+		}
+		d_north_bergen_yard = {
+		# all the industrial area
+		}
+		d_meadowview = {
+		# all those cemeteries
+		}
+		d_transfer_station_north = {
+		}
+	}

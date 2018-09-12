@@ -1,0 +1,19 @@
+# 53 - Pike and Henry streets
+
+# County Title
+title = c_pike_henry
+
+# Settlements
+max_settlements = 3
+b_pike_henry_01 = castle
+b_pike_henry_02 = city
+b_pike_henry_03 = temple
+
+# Misc
+culture = new_yorker
+religion = cosa_nostra
+
+# History
+
+#1848.4.7 = {
+#}

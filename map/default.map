@@ -1,0 +1,38 @@
+max_provinces = 4313
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "topology.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "island_region.txt"
+geographical_region = "geographical_region.txt"
+static = "statics"
+seasons = "seasons.txt"
+
+# New Jersey rivers
+sea_zones = { 4256 4261 }
+# Hudson River
+sea_zones = { 4250 4253 }
+# East River
+sea_zones = { 4254 4255 }
+sea_zones = { 4263 4274 }
+
+# Lakes
+sea_zones = { 4300 4301 } # Meadow/Willow Lakes
+sea_zones = { 4302 4309 } # Central Park Ponds
+sea_zones = { 4310 4310 } # North river
+sea_zones = { 4311 4312 } # NJ Lakes
+
+ocean_region = { sea_zones = { 1 } }
+ocean_region = { sea_zones = { 2 3 4 } }
+
+tree = { 3 4 7 10 }
+major_rivers = { 4255 4265 4266 4267 4270 4271 4272 }
+
+externals = { 1128 3121 3500 3669 }
